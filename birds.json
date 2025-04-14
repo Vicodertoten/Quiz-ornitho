@@ -1,0 +1,3465 @@
+[
+  {
+    "id": "passer_domesticus",
+    "nom": "Moineau domestique",
+    "sci": "Passer domesticus",
+    "audio": "assets/audio/passer_domesticus.mp3",
+    "audio_credit": "Lim Ying Hien",
+    "description": "Le Moineau domestique est une espèce de petits passereaux de la famille des Passeridae. Contrairement à ce que ce nom peut laisser penser, ce n'est pas un animal domestique mais bien une espèce sauvage, seulement commensale de l'être humain.",
+    "images": [
+      "assets/images/moineau_domestique_oiseauxnet_0.jpg",
+      "assets/images/moineau_domestique_oiseauxnet_1.jpg",
+      "assets/images/moineau_domestique_oiseauxnet_2.jpg",
+      "assets/images/moineau_domestique_oiseauxnet_3.jpg",
+      "assets/images/moineau_domestique_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "17 cm",
+      "envergure": "25 cm.",
+      "poids": "30 à 39 g"
+    }
+  },
+  {
+    "id": "turdus_merula",
+    "nom": "Merle noir",
+    "sci": "Turdus merula",
+    "audio": "assets/audio/turdus_merula.mp3",
+    "audio_credit": "Jacobo Ramil Millarengo",
+    "description": "Le Merle noir, ou plus communément Merle, est une espèce de passereaux de la famille des turdidés.",
+    "images": [
+      "assets/images/merle_noir_oiseauxnet_0.jpg",
+      "assets/images/merle_noir_oiseauxnet_1.jpg",
+      "assets/images/merle_noir_oiseauxnet_2.jpg",
+      "assets/images/merle_noir_oiseauxnet_3.jpg",
+      "assets/images/merle_noir_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "27 cm",
+      "envergure": "34 à 38 cm.",
+      "poids": "80 à 110 g"
+    }
+  },
+  {
+    "id": "erithacus_rubecula",
+    "nom": "Rougegorge familier",
+    "sci": "Erithacus rubecula",
+    "audio": "assets/audio/erithacus_rubecula.mp3",
+    "audio_credit": "Cedric Mroczko",
+    "description": "Le Rouge-gorge familier est une espèce de passereaux. Auparavant placé dans la famille des Turdidae, il figure actuellement, avec d'autres représentants de celle-ci, dans celle des Muscicapidae. La liste de la Commission de l'Avifaune française utilise l'orthographe rougegorge.",
+    "images": [
+      "assets/images/rougegorge_familier_oiseauxnet_0.jpg",
+      "assets/images/rougegorge_familier_oiseauxnet_1.jpg",
+      "assets/images/rougegorge_familier_oiseauxnet_2.jpg",
+      "assets/images/rougegorge_familier_oiseauxnet_3.jpg",
+      "assets/images/rougegorge_familier_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 cm",
+      "envergure": "20 à 22 cm.",
+      "poids": "16 à 22 g"
+    }
+  },
+  {
+    "id": "parus_major",
+    "nom": "Mésange charbonnière",
+    "sci": "Parus major",
+    "audio": "assets/audio/parus_major.mp3",
+    "audio_credit": "Jacobo Ramil Millarengo",
+    "description": "La Mésange charbonnière est une espèce de passereaux de la famille des paridés.",
+    "images": [
+      "assets/images/mésange_charbonnière_oiseauxnet_0.jpg",
+      "assets/images/mésange_charbonnière_oiseauxnet_1.jpg",
+      "assets/images/mésange_charbonnière_oiseauxnet_2.jpg",
+      "assets/images/mésange_charbonnière_oiseauxnet_3.jpg",
+      "assets/images/mésange_charbonnière_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 cm",
+      "envergure": "23 à 26 cm.",
+      "poids": "16 à 21 g"
+    }
+  },
+  {
+    "id": "cyanistes_caeruleus",
+    "nom": "Mésange bleue",
+    "sci": "Cyanistes caeruleus",
+    "audio": "assets/audio/cyanistes_caeruleus.mp3",
+    "audio_credit": "Elias A. Ryberg",
+    "description": "La Mésange bleue est une espèce de passereaux de la famille des paridés.",
+    "images": [
+      "assets/images/mésange_bleue_oiseauxnet_0.jpg",
+      "assets/images/mésange_bleue_oiseauxnet_1.jpg",
+      "assets/images/mésange_bleue_oiseauxnet_2.jpg",
+      "assets/images/mésange_bleue_oiseauxnet_3.jpg",
+      "assets/images/mésange_bleue_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "12 cm",
+      "envergure": "12 à 14 cm.",
+      "poids": "9 à 12 g"
+    }
+  },
+  {
+    "id": "fringilla_coelebs",
+    "nom": "Pinson des arbres",
+    "sci": "Fringilla coelebs",
+    "audio": "assets/audio/fringilla_coelebs.mp3",
+    "audio_credit": "Taras Vykhovanets",
+    "description": "Le Pinson des arbres est une espèce de petits passereaux, partiellement migrateur, très répandu, de la famille des Fringillidés. C'est la plus fréquente et la plus répandue des trois espèces de pinsons. Il est présent dans toute l'Europe à l'exception de l'Islande et de la Scandinavie la plus septentrionale, son aire de répartition s'étend vers l'est jusqu'en Sibérie centrale. C'est aussi un oiseau reproducteur en Afrique du Nord et au Proche-Orient jusqu'en Iran. En Nouvelle-Zélande et en Afrique du Sud, le pinson a été introduit par l'homme.",
+    "images": [
+      "assets/images/pinson_des_arbres_oiseauxnet_0.jpg",
+      "assets/images/pinson_des_arbres_oiseauxnet_1.jpg",
+      "assets/images/pinson_des_arbres_oiseauxnet_2.jpg",
+      "assets/images/pinson_des_arbres_oiseauxnet_3.jpg",
+      "assets/images/pinson_des_arbres_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 à 16 cm",
+      "envergure": "26 cm.",
+      "poids": "17 à 30 g"
+    }
+  },
+  {
+    "id": "carduelis_carduelis",
+    "nom": "Chardonneret élégant",
+    "sci": "Carduelis carduelis",
+    "audio": "assets/audio/carduelis_carduelis.mp3",
+    "audio_credit": "João Tomás",
+    "description": "Le Chardonneret élégant est une espèce de passereaux de la famille des fringillidés, partiellement migratrice, petite et très bariolée.",
+    "images": [
+      "assets/images/chardonneret_élégant_oiseauxnet_0.jpg",
+      "assets/images/chardonneret_élégant_oiseauxnet_1.jpg",
+      "assets/images/chardonneret_élégant_oiseauxnet_2.jpg",
+      "assets/images/chardonneret_élégant_oiseauxnet_3.jpg",
+      "assets/images/chardonneret_élégant_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 cm",
+      "envergure": "-",
+      "poids": "14 à 18 g"
+    }
+  },
+  {
+    "id": "chloris_chloris",
+    "nom": "Verdier d'Europe",
+    "sci": "Chloris chloris",
+    "audio": "assets/audio/chloris_chloris.mp3",
+    "audio_credit": "Jordi Calvet",
+    "description": "Le Verdier d'Europe est une petite espèce de passereaux partiellement migrateur, très répandu, de la famille des fringillidés.",
+    "images": [
+      "assets/images/verdier_d_europe_oiseauxnet_0.jpg",
+      "assets/images/verdier_d_europe_oiseauxnet_1.jpg",
+      "assets/images/verdier_d_europe_oiseauxnet_2.jpg",
+      "assets/images/verdier_d_europe_oiseauxnet_3.jpg",
+      "assets/images/verdier_d_europe_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "16 cm",
+      "envergure": "-",
+      "poids": "25 à 34 g"
+    }
+  },
+  {
+    "id": "columba_palumbus",
+    "nom": "Pigeon ramier",
+    "sci": "Columba palumbus",
+    "audio": "assets/audio/columba_palumbus.mp3",
+    "audio_credit": "Oscar Campbell",
+    "description": "Le pigeon ramier, est une espèce d'oiseaux de la famille des Columbidés. Il est parfois simplement appelé ramier ou palombe, c'est la plus grande et la plus commune des espèces de pigeons européens.",
+    "images": [
+      "assets/images/pigeon_ramier_oiseauxnet_0.jpg",
+      "assets/images/pigeon_ramier_oiseauxnet_1.jpg",
+      "assets/images/pigeon_ramier_oiseauxnet_2.jpg",
+      "assets/images/pigeon_ramier_oiseauxnet_3.jpg",
+      "assets/images/pigeon_ramier_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "45 cm",
+      "envergure": "75 à 80 cm.",
+      "poids": "450 à 520 g"
+    }
+  },
+  {
+    "id": "streptopelia_decaocto",
+    "nom": "Tourterelle turque",
+    "sci": "Streptopelia decaocto",
+    "audio": "assets/audio/streptopelia_decaocto.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "La Tourterelle turque est une espèce d'oiseaux de la famille des Columbidés. Elle appartient au groupe des tourterelles ayant un collier qui comprend plusieurs espèces. Elle ne doit pas être confondue en particulier avec la Tourterelle à collier ou la Tourterelle domestique qui ont un aspect très proche avec un collier noir comparable.",
+    "images": [
+      "assets/images/tourterelle_turque_oiseauxnet_0.jpg",
+      "assets/images/tourterelle_turque_oiseauxnet_1.jpg",
+      "assets/images/tourterelle_turque_oiseauxnet_2.jpg",
+      "assets/images/tourterelle_turque_oiseauxnet_3.jpg",
+      "assets/images/tourterelle_turque_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "32 cm",
+      "envergure": "47 à 55 cm.",
+      "poids": "125 à 225 g"
+    }
+  },
+  {
+    "id": "pica_pica",
+    "nom": "Pie bavarde",
+    "sci": "Pica pica",
+    "audio": "assets/audio/pica_pica.mp3",
+    "audio_credit": "SonoNatura",
+    "description": "La Pie bavarde est une espèce de passereaux de la famille des Corvidae, et l'une des espèces de corvidés parmi les plus répandues en Europe et dans une grande partie de l'Asie. Les pies peuvent aisément être identifiées grâce à leur morphologie et à leur plumage noir et blanc caractéristique. Il existe 13 sous-espèces de pie bavarde.",
+    "images": [
+      "assets/images/pie_bavarde_oiseauxnet_0.jpg",
+      "assets/images/pie_bavarde_oiseauxnet_1.jpg",
+      "assets/images/pie_bavarde_oiseauxnet_2.jpg",
+      "assets/images/pie_bavarde_oiseauxnet_3.jpg",
+      "assets/images/pie_bavarde_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "50 cm",
+      "envergure": "56 à 61 cm.",
+      "poids": "145 à 240 g"
+    }
+  },
+  {
+    "id": "sturnus_vulgaris",
+    "nom": "Étourneau sansonnet",
+    "sci": "Sturnus vulgaris",
+    "audio": "assets/audio/sturnus_vulgaris.mp3",
+    "audio_credit": "Susanne Kuijpers",
+    "description": "L’Étourneau sansonnet est une espèce de passereaux de la famille des sturnidés, originaire de la plus grande partie de l'Eurasie, mais qui a été introduite dans tous les continents excepté l'Antarctique.",
+    "images": [
+      "assets/images/étourneau_sansonnet_oiseauxnet_0.jpg",
+      "assets/images/étourneau_sansonnet_oiseauxnet_1.jpg",
+      "assets/images/étourneau_sansonnet_oiseauxnet_2.jpg",
+      "assets/images/étourneau_sansonnet_oiseauxnet_3.jpg",
+      "assets/images/étourneau_sansonnet_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "21 cm",
+      "envergure": "31 à 40 cm.",
+      "poids": "60 à 96 g"
+    }
+  },
+  {
+    "id": "troglodytes_troglodytes",
+    "nom": "Troglodyte mignon",
+    "sci": "Troglodytes troglodytes",
+    "audio": "assets/audio/troglodytes_troglodytes.mp3",
+    "audio_credit": "Jacobo Ramil Millarengo",
+    "description": "Le Troglodyte mignon est une espèce de passereaux de la famille des Troglodytidae présente dans la quasi-totalité de l'Europe. Il est de très petite taille et d'une grande vivacité.",
+    "images": [
+      "assets/images/troglodyte_mignon_oiseauxnet_0.jpg",
+      "assets/images/troglodyte_mignon_oiseauxnet_1.jpg",
+      "assets/images/troglodyte_mignon_oiseauxnet_2.jpg",
+      "assets/images/troglodyte_mignon_oiseauxnet_3.jpg",
+      "assets/images/troglodyte_mignon_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "10 cm",
+      "envergure": "13 à 17 cm.",
+      "poids": "8 à 13 g"
+    }
+  },
+  {
+    "id": "turdus_philomelos",
+    "nom": "Grive musicienne",
+    "sci": "Turdus philomelos",
+    "audio": "assets/audio/turdus_philomelos.mp3",
+    "audio_credit": "Jacobo Ramil Millarengo",
+    "description": "La Grive musicienne est une espèce de passereaux de la famille des Turdidés.",
+    "images": [
+      "assets/images/grive_musicienne_oiseauxnet_0.jpg",
+      "assets/images/grive_musicienne_oiseauxnet_1.jpg",
+      "assets/images/grive_musicienne_oiseauxnet_2.jpg",
+      "assets/images/grive_musicienne_oiseauxnet_3.jpg",
+      "assets/images/grive_musicienne_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "23 cm",
+      "envergure": "33 à 36 cm.",
+      "poids": "65 à 90 g"
+    }
+  },
+  {
+    "id": "motacilla_alba",
+    "nom": "Bergeronnette grise",
+    "sci": "Motacilla alba",
+    "audio": "assets/audio/motacilla_alba.mp3",
+    "audio_credit": "Ray Tsu 诸仁",
+    "description": "La Bergeronnette grise, aussi appelée Hochequeue gris, est une espèce de petits passereaux de la famille des motacillidés la même que les pipits et la sentinelle. Cette espèce niche dans la plus grande partie de l'Europe et de l'Asie, ainsi que dans certaines parties de l'Afrique du Nord. Elle est sédentaire dans la partie la plus douce de son habitat et migre vers le sud dans les autres cas. Autrefois, elle était également appelée « lavandière » comme en parle Georges-Louis Leclerc de Buffon dès 1778. Elle est considérée comme un emblème national en Lettonie.",
+    "images": [
+      "assets/images/bergeronnette_grise_oiseauxnet_0.jpg",
+      "assets/images/bergeronnette_grise_oiseauxnet_1.jpg",
+      "assets/images/bergeronnette_grise_oiseauxnet_2.jpg",
+      "assets/images/bergeronnette_grise_oiseauxnet_3.jpg",
+      "assets/images/bergeronnette_grise_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "19 cm",
+      "envergure": "30 à 32 cm.",
+      "poids": "18 à 27 g"
+    }
+  },
+  {
+    "id": "alauda_arvensis",
+    "nom": "Alouette des champs",
+    "sci": "Alauda arvensis",
+    "audio": "assets/audio/alauda_arvensis.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "L’Alouette des champs est une espèce d'oiseaux. Comme toutes les alouettes, elle appartient à la famille des Alaudidae. l'espèce est très répandue en Europe, l'alouette des champs fait partie des espèces très développées en France.",
+    "images": [
+      "assets/images/alouette_des_champs_oiseauxnet_0.jpg",
+      "assets/images/alouette_des_champs_oiseauxnet_1.jpg",
+      "assets/images/alouette_des_champs_oiseauxnet_2.jpg",
+      "assets/images/alouette_des_champs_oiseauxnet_3.jpg",
+      "assets/images/alouette_des_champs_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "19 cm",
+      "envergure": "35 cm.",
+      "poids": "45 à 50 g"
+    }
+  },
+  {
+    "id": "hirundo_rustica",
+    "nom": "Hirondelle rustique",
+    "sci": "Hirundo rustica",
+    "audio": "assets/audio/hirundo_rustica.mp3",
+    "audio_credit": "Aku Kalliomäki",
+    "description": "L'Hirondelle rustique est une petite espèce de passereaux, migratrice, vivant en Europe, en Asie, en Afrique et en Amérique. Elle est également connue sous le nom d'Hirondelle de cheminée ou d'Hirondelle des granges. Elle se distingue par sa longue queue fourchue et sa gorge couleur rouge brique. Elle niche dans un nid fait de terre séchée et de salive pour coller les bouts de terre, accroché sous un toit, une poutre, aussi bien à l'extérieur qu'à l'intérieur, en ville ou à la campagne, souvent dans des granges ouvertes, et parfois dans les maisons ouvertes. Elle se nourrit essentiellement d'insectes attrapés en vol.",
+    "images": [
+      "assets/images/hirondelle_rustique_oiseauxnet_0.jpg",
+      "assets/images/hirondelle_rustique_oiseauxnet_1.jpg",
+      "assets/images/hirondelle_rustique_oiseauxnet_2.jpg",
+      "assets/images/hirondelle_rustique_oiseauxnet_3.jpg",
+      "assets/images/hirondelle_rustique_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "18 cm",
+      "envergure": "32 à 34 cm.",
+      "poids": "16 à 25 g"
+    }
+  },
+  {
+    "id": "delichon_urbicum",
+    "nom": "Hirondelle de fenêtre",
+    "sci": "Delichon urbicum",
+    "audio": "assets/audio/delichon_urbicum.mp3",
+    "audio_credit": "João Tomás",
+    "description": "L'Hirondelle de fenêtre est une espèce de passereaux de la famille des Hirundinidae qui niche en Europe, en Afrique du Nord et en Asie tempérée, et qui hiverne en Afrique subsaharienne et en Asie tropicale. Elle a la tête et les parties supérieures bleutées, le croupion blanc et les parties inférieures d'un blanc pur, et occupe à la fois les paysages ouverts et les environs des habitations humaines. Elle ressemble fortement aux deux autres espèces du genre Delichon, qui sont endémiques de l'Est et du Sud de l'Asie, l'Hirondelle de Bonaparte et l'Hirondelle du Népal. L'Hirondelle de Pallas, sous-espèce asiatique de l'Hirondelle de fenêtre, est parfois considérée comme espèce à part entière.",
+    "images": [
+      "assets/images/hirondelle_de_fenêtre_oiseauxnet_0.jpg",
+      "assets/images/hirondelle_de_fenêtre_oiseauxnet_1.jpg",
+      "assets/images/hirondelle_de_fenêtre_oiseauxnet_2.jpg",
+      "assets/images/hirondelle_de_fenêtre_oiseauxnet_3.jpg",
+      "assets/images/hirondelle_de_fenêtre_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 cm",
+      "envergure": "26 à 29 cm.",
+      "poids": "15 à 21 g"
+    }
+  },
+  {
+    "id": "apus_apus",
+    "nom": "Martinet noir",
+    "sci": "Apus apus",
+    "audio": "assets/audio/apus_apus.mp3",
+    "audio_credit": "Nicolas Martinez",
+    "description": "Le martinet noir ou parfois simplement martinet est une espèce d'oiseaux de la famille des apodidés.",
+    "images": [
+      "assets/images/martinet_noir_oiseauxnet_0.jpg",
+      "assets/images/martinet_noir_oiseauxnet_1.jpg",
+      "assets/images/martinet_noir_oiseauxnet_2.jpg",
+      "assets/images/martinet_noir_oiseauxnet_3.jpg",
+      "assets/images/martinet_noir_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "17 cm",
+      "envergure": "42 à 48 cm.",
+      "poids": "38 à 45 g"
+    }
+  },
+  {
+    "id": "regulus_regulus",
+    "nom": "Roitelet huppé",
+    "sci": "Regulus regulus",
+    "audio": "assets/audio/regulus_regulus.mp3",
+    "audio_credit": "Ulf Elman",
+    "description": "Le Roitelet huppé est une petite espèce de passereaux de la famille des Regulidae.",
+    "images": [
+      "assets/images/roitelet_huppé_oiseauxnet_0.jpg",
+      "assets/images/roitelet_huppé_oiseauxnet_1.jpg",
+      "assets/images/roitelet_huppé_oiseauxnet_2.jpg",
+      "assets/images/roitelet_huppé_oiseauxnet_3.jpg",
+      "assets/images/roitelet_huppé_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "9 cm",
+      "envergure": "-",
+      "poids": "5 à 7 g"
+    }
+  },
+  {
+    "id": "phylloscopus_collybita",
+    "nom": "Pouillot véloce",
+    "sci": "Phylloscopus collybita",
+    "audio": "assets/audio/phylloscopus_collybita.mp3",
+    "audio_credit": "Arend Wassink",
+    "description": "Le Pouillot véloce est une espèce d'oiseaux de la famille des Phylloscopidae très répandue dans l'Ancien Monde. Brun verdâtre dessus et blanc cassé dessous, il possède un chant caractéristique à deux tons dont les francophones retiennent le rythme et le son métallique ressemblant à ceux de pièces de monnaie que l'on égrène, d'où le surnom de « compteur d'écus », et que les anglophones traduisent par un chiff-chaff qui lui a valu son nom vulgaire anglais de Common Chiffchaff. L'espèce est divisée en un certain nombre de sous-espèces, dont certaines sont désormais considérées comme des espèces à part entière. La femelle construit un nid en forme de dôme sur ou près du sol, et assume l'essentiel de la couvaison et de l'alimentation des oisillons, tandis que le mâle a peu d'implication dans la nidification, mais défend son territoire contre ses rivaux, et attaque les prédateurs potentiels.",
+    "images": [
+      "assets/images/pouillot_véloce_oiseauxnet_0.jpg",
+      "assets/images/pouillot_véloce_oiseauxnet_1.jpg",
+      "assets/images/pouillot_véloce_oiseauxnet_2.jpg",
+      "assets/images/pouillot_véloce_oiseauxnet_3.jpg",
+      "assets/images/pouillot_véloce_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "12 cm",
+      "envergure": "-",
+      "poids": "6 à 9 g"
+    }
+  },
+  {
+    "id": "phylloscopus_trochilus",
+    "nom": "Pouillot fitis",
+    "sci": "Phylloscopus trochilus",
+    "audio": "assets/audio/phylloscopus_trochilus.mp3",
+    "audio_credit": "Abe Bakker",
+    "description": "Le Pouillot fitis est une espèce de passereaux de la famille des Phylloscopidae.",
+    "images": [
+      "assets/images/pouillot_fitis_oiseauxnet_0.jpg",
+      "assets/images/pouillot_fitis_oiseauxnet_1.jpg",
+      "assets/images/pouillot_fitis_oiseauxnet_2.jpg",
+      "assets/images/pouillot_fitis_oiseauxnet_3.jpg",
+      "assets/images/pouillot_fitis_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "13 cm",
+      "envergure": "-",
+      "poids": "8 à 10 g"
+    }
+  },
+  {
+    "id": "certhia_brachydactyla",
+    "nom": "Grimpereau des jardins",
+    "sci": "Certhia brachydactyla",
+    "audio": "assets/audio/certhia_brachydactyla.mp3",
+    "audio_credit": "FRIEDRICH Richard",
+    "description": "Le Grimpereau des jardins est une espèce de petits passereaux de la famille des Certhiidae.",
+    "images": [
+      "assets/images/grimpereau_des_jardins_oiseauxnet_0.jpg",
+      "assets/images/grimpereau_des_jardins_oiseauxnet_1.jpg",
+      "assets/images/grimpereau_des_jardins_oiseauxnet_2.jpg",
+      "assets/images/grimpereau_des_jardins_oiseauxnet_3.jpg",
+      "assets/images/grimpereau_des_jardins_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "12 cm",
+      "envergure": "-",
+      "poids": "8 à 12 g"
+    }
+  },
+  {
+    "id": "dendrocopos_major",
+    "nom": "Pic épeiche",
+    "sci": "Dendrocopos major",
+    "audio": "assets/audio/dendrocopos_major.mp3",
+    "audio_credit": "FRIEDRICH Richard",
+    "description": "Le Pic épeiche est l'espèce de pics la plus répandue et la plus commune en Europe et dans le Nord de l'Asie. Faisant partie des pics de taille moyenne, il se caractérise par un plumage rayé de blanc et de noir et une tache rouge écarlate sur le bas-ventre près de la queue.",
+    "images": [
+      "assets/images/pic_épeiche_oiseauxnet_0.jpg",
+      "assets/images/pic_épeiche_oiseauxnet_1.jpg",
+      "assets/images/pic_épeiche_oiseauxnet_2.jpg",
+      "assets/images/pic_épeiche_oiseauxnet_3.jpg",
+      "assets/images/pic_épeiche_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "24 cm",
+      "envergure": "34 à 39 cm.",
+      "poids": "70 à 98 g"
+    }
+  },
+  {
+    "id": "picus_viridis",
+    "nom": "Pic vert",
+    "sci": "Picus viridis",
+    "audio": "assets/audio/picus_viridis.mp3",
+    "audio_credit": "FRIEDRICH Richard",
+    "description": "Le Pic vert, aussi connu sous le nom vernaculaire de Pivert, est une espèce d'Oiseaux de l'ordre des Piciformes et de la famille des Picidae. Il est commun à très commun dans son aire de répartition, qui couvre l'ensemble de l'Europe de l'Ouest, de l'océan Atlantique jusqu'à la Volga, en Russie.",
+    "images": [
+      "assets/images/pic_vert_oiseauxnet_0.jpg",
+      "assets/images/pic_vert_oiseauxnet_1.jpg",
+      "assets/images/pic_vert_oiseauxnet_2.jpg",
+      "assets/images/pic_vert_oiseauxnet_3.jpg",
+      "assets/images/pic_vert_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "33 cm",
+      "envergure": "40 à 42 cm.",
+      "poids": "180 à 220 g"
+    }
+  },
+  {
+    "id": "luscinia_svecica",
+    "nom": "Gorgebleue à miroir",
+    "sci": "Luscinia svecica",
+    "audio": "assets/audio/luscinia_svecica.mp3",
+    "audio_credit": "João Tomás",
+    "description": "La Gorgebleue à miroir, aussi orthographié Gorge-bleue, est une espèce de passereaux appartenant à la famille des Muscicapidae. Il existe de nombreuses sous-espèces, mais seules trois d'entre elles sont présentes en Europe, et se distinguent aux couleurs de leur gorge.",
+    "images": [
+      "assets/images/gorgebleue_à_miroir_oiseauxnet_0.jpg",
+      "assets/images/gorgebleue_à_miroir_oiseauxnet_1.jpg",
+      "assets/images/gorgebleue_à_miroir_oiseauxnet_2.jpg",
+      "assets/images/gorgebleue_à_miroir_oiseauxnet_3.jpg",
+      "assets/images/gorgebleue_à_miroir_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "15 cm",
+      "envergure": "23 cm.",
+      "poids": "15 à 23 g"
+    }
+  },
+  {
+    "id": "emberiza_cirlus",
+    "nom": "Bruant zizi",
+    "sci": "Emberiza cirlus",
+    "audio": "assets/audio/emberiza_cirlus.mp3",
+    "audio_credit": "Xavier Riera",
+    "description": "Le Bruant zizi, décrit par Linné en 1766, est une espèce de passereaux appartenant à la famille des Emberizidae.",
+    "images": [
+      "assets/images/bruant_zizi_oiseauxnet_0.jpg",
+      "assets/images/bruant_zizi_oiseauxnet_1.jpg",
+      "assets/images/bruant_zizi_oiseauxnet_2.jpg",
+      "assets/images/bruant_zizi_oiseauxnet_3.jpg",
+      "assets/images/bruant_zizi_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "17 cm",
+      "envergure": "-",
+      "poids": "17 à 25 g"
+    }
+  },
+  {
+    "id": "emberiza_schoeniclus",
+    "nom": "Bruant des roseaux",
+    "sci": "Emberiza schoeniclus",
+    "audio": "assets/audio/emberiza_schoeniclus.mp3",
+    "audio_credit": "Abe Bakker",
+    "description": "Le Bruant des roseaux est une espèce de passereaux européens de la famille des embérizidés et l'une des 44 espèces du genre Emberiza connues à ce jour.",
+    "images": [
+      "assets/images/bruant_des_roseaux_oiseauxnet_0.jpg",
+      "assets/images/bruant_des_roseaux_oiseauxnet_1.jpg",
+      "assets/images/bruant_des_roseaux_oiseauxnet_2.jpg",
+      "assets/images/bruant_des_roseaux_oiseauxnet_3.jpg",
+      "assets/images/bruant_des_roseaux_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "17 cm",
+      "envergure": "23 à 25 cm.",
+      "poids": "16 à 25 g"
+    }
+  },
+  {
+    "id": "sitta_europaea",
+    "nom": "Sittelle torchepot",
+    "sci": "Sitta europaea",
+    "audio": "assets/audio/sitta_europaea.mp3",
+    "audio_credit": "Jacobo Ramil Millarengo",
+    "description": "La Sittelle torchepot, également appelée le pic maçon, est une espèce de passereaux de la famille des Sittidae. C'est une sittelle de taille moyenne, mesurant 14 cm de longueur. Comme les autres sittelles, c'est un oiseau trapu à la queue courte et au long bec. Les parties supérieures sont bleu-gris, les parties inférieures de couleurs très variables selon la géographie, et peuvent être blanc pur ou roux jaunâtre, avec ou sans zone pâle sur la joue. L'oiseau a également un trait oculaire noir, et présente un certain dimorphisme sexuel, le mâle ayant des couleurs plus prononcées que la femelle. C'est un oiseau bruyant, au répertoire varié, émettant divers types de chants, en vuih, vuih, vuih, vuih… et, en cas d'excitation ou d'alerte, de longues séries de cris sonores en tuit répétés rapidement. Comme les autres membres de son genre, c'est un oiseau très agile qui escalade les arbres avec facilité, descendant parfois le long des troncs d'arbres tête la première.",
+    "images": [
+      "assets/images/sittelle_torchepot_oiseauxnet_0.jpg",
+      "assets/images/sittelle_torchepot_oiseauxnet_1.jpg",
+      "assets/images/sittelle_torchepot_oiseauxnet_2.jpg",
+      "assets/images/sittelle_torchepot_oiseauxnet_3.jpg",
+      "assets/images/sittelle_torchepot_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 cm",
+      "envergure": "-",
+      "poids": "19 à 24 g"
+    }
+  },
+  {
+    "id": "periparus_ater",
+    "nom": "Mésange noire",
+    "sci": "Periparus ater",
+    "audio": "assets/audio/periparus_ater.mp3",
+    "audio_credit": "Francesco Sottile",
+    "description": "La mésange noire, anciennement Parus ater, est une espèce de passereaux de la famille des Paridés.",
+    "images": [
+      "assets/images/mésange_noire_oiseauxnet_0.jpg",
+      "assets/images/mésange_noire_oiseauxnet_1.jpg",
+      "assets/images/mésange_noire_oiseauxnet_2.jpg",
+      "assets/images/mésange_noire_oiseauxnet_3.jpg",
+      "assets/images/mésange_noire_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "12 cm",
+      "envergure": "-",
+      "poids": "8 à 10 g"
+    }
+  },
+  {
+    "id": "poecile_palustris",
+    "nom": "Mésange nonnette",
+    "sci": "Poecile palustris",
+    "audio": "assets/audio/poecile_palustris.mp3",
+    "audio_credit": "Bodo Sonnenburg",
+    "description": "La Mésange nonnette est une espèce de passereaux de la famille des Paridés. C'est un petit oiseau portant une calotte d'un noir brillant, avec un dessus brun-gris et un dessous crème à blanchâtre. Elle ressemble beaucoup à la Mésange boréale, avec qui elle peut cohabiter, en particulier en Grande-Bretagne où les deux sous-espèces locales, quasiment identiques, n'étaient pas distinguées avant 1897.",
+    "images": [
+      "assets/images/mésange_nonnette_oiseauxnet_0.jpg",
+      "assets/images/mésange_nonnette_oiseauxnet_1.jpg",
+      "assets/images/mésange_nonnette_oiseauxnet_2.jpg",
+      "assets/images/mésange_nonnette_oiseauxnet_3.jpg",
+      "assets/images/mésange_nonnette_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "12 cm",
+      "envergure": "-",
+      "poids": "9 à 12 g"
+    }
+  },
+  {
+    "id": "aegithalos_caudatus",
+    "nom": "Mésange à longue queue",
+    "sci": "Aegithalos caudatus",
+    "audio": "assets/audio/aegithalos_caudatus.mp3",
+    "audio_credit": "Lars Edenius",
+    "description": "La Mésange à longue queue ou Orite à longue queue est une espèce de passereaux de la famille des Aegithalidae, anciennement appelée tupinet ou orite. On la trouve presque partout en Europe où elle est sédentaire et occupe presque tous les habitats : bois, parcs, jardins, etc.",
+    "images": [],
+    "image_credits": [],
+    "biometrie": {}
+  },
+  {
+    "id": "anthus_pratensis",
+    "nom": "Pipit farlouse",
+    "sci": "Anthus pratensis",
+    "audio": "assets/audio/anthus_pratensis.mp3",
+    "audio_credit": "Le Louaver Manuel",
+    "description": "Le Pipit farlouse, également appelé Pipit des prés ou Béguinette en wallon, est une espèce de passereaux appartenant à la famille des Motacillidae.",
+    "images": [
+      "assets/images/pipit_farlouse_oiseauxnet_0.jpg",
+      "assets/images/pipit_farlouse_oiseauxnet_1.jpg",
+      "assets/images/pipit_farlouse_oiseauxnet_2.jpg",
+      "assets/images/pipit_farlouse_oiseauxnet_3.jpg",
+      "assets/images/pipit_farlouse_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "15 cm",
+      "envergure": "22 à 25 cm.",
+      "poids": "16 à 25 g"
+    }
+  },
+  {
+    "id": "anthus_spinoletta",
+    "nom": "Pipit spioncelle",
+    "sci": "Anthus spinoletta",
+    "audio": "assets/audio/anthus_spinoletta.mp3",
+    "audio_credit": "Benjamin Drillat",
+    "description": "Le Pipit spioncelle est une espèce de passereaux appartenant à la famille des Motacillidae.",
+    "images": [
+      "assets/images/pipit_spioncelle_oiseauxnet_0.jpg",
+      "assets/images/pipit_spioncelle_oiseauxnet_1.jpg",
+      "assets/images/pipit_spioncelle_oiseauxnet_2.jpg",
+      "assets/images/pipit_spioncelle_oiseauxnet_3.jpg",
+      "assets/images/pipit_spioncelle_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "17 cm",
+      "envergure": "23 à 28 cm.",
+      "poids": "21 à 30 g"
+    }
+  },
+  {
+    "id": "linaria_cannabina",
+    "nom": "Linotte mélodieuse",
+    "sci": "Linaria cannabina",
+    "audio": "assets/audio/linaria_cannabina.mp3",
+    "audio_credit": "Elias A. Ryberg",
+    "description": "La Linotte mélodieuse est une petite espèce de passereaux bruns, à la poitrine rosée de la famille des fringillidés. Son gazouillis est agréable et doux, son vol vif et léger.",
+    "images": [
+      "assets/images/linotte_mélodieuse_oiseauxnet_0.jpg",
+      "assets/images/linotte_mélodieuse_oiseauxnet_1.jpg",
+      "assets/images/linotte_mélodieuse_oiseauxnet_2.jpg",
+      "assets/images/linotte_mélodieuse_oiseauxnet_3.jpg",
+      "assets/images/linotte_mélodieuse_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 cm",
+      "envergure": "-",
+      "poids": "15 à 20 g"
+    }
+  },
+  {
+    "id": "coccothraustes_coccothraustes",
+    "nom": "Grosbec casse-noyaux",
+    "sci": "Coccothraustes coccothraustes",
+    "audio": "assets/audio/coccothraustes_coccothraustes.mp3",
+    "audio_credit": "Thierry THOMAS",
+    "description": "Le Gros-bec casse-noyaux est une petite espèce de passereaux de la famille des Fringillidae. Il est partiellement migrateur. C'est l'espèce la plus grande des Fringillidae et la seule du genre Coccothraustes. Il est apparenté à certains gros-becs, actuellement classés dans des genres différents.",
+    "images": [
+      "assets/images/grosbec_casse_noyaux_oiseauxnet_0.jpg",
+      "assets/images/grosbec_casse_noyaux_oiseauxnet_1.jpg",
+      "assets/images/grosbec_casse_noyaux_oiseauxnet_2.jpg",
+      "assets/images/grosbec_casse_noyaux_oiseauxnet_3.jpg",
+      "assets/images/grosbec_casse_noyaux_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "18 cm",
+      "envergure": "29 à 33 cm.",
+      "poids": "48 à 62 g"
+    }
+  },
+  {
+    "id": "corvus_corone",
+    "nom": "Corneille noire",
+    "sci": "Corvus corone",
+    "audio": "assets/audio/corvus_corone.mp3",
+    "audio_credit": "Jacobo Ramil Millarengo",
+    "description": "La Corneille noire est une espèce de passereaux de la famille des Corvidae. Elle est présente dans deux aires distinctes de l'écozone paléarctique : l'Europe de l'Ouest et du Sud-Ouest, où sa population est estimée entre 5,5 et 12 millions de couples, et en Asie du Kazakhstan au Japon, où sa population n'est pas connue. Un des oiseaux les plus communs dans son aire de répartition, elle se trouve à peu près partout, de la campagne jusqu'au cœur des grandes villes.",
+    "images": [
+      "assets/images/corneille_noire_oiseauxnet_0.jpg",
+      "assets/images/corneille_noire_oiseauxnet_1.jpg",
+      "assets/images/corneille_noire_oiseauxnet_2.jpg",
+      "assets/images/corneille_noire_oiseauxnet_3.jpg",
+      "assets/images/corneille_noire_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "53 cm",
+      "envergure": "92 à 100 cm.",
+      "poids": "450 à 600 g"
+    }
+  },
+  {
+    "id": "corvus_monedula",
+    "nom": "Choucas des tours",
+    "sci": "Corvus monedula",
+    "audio": "",
+    "audio_credit": "inconnu",
+    "description": "Le Choucas des tours, aussi appelé corbeau choucas, choucas ou corneille des clochers, est une espèce d'oiseaux de la famille des corvidés.",
+    "images": [
+      "assets/images/choucas_des_tours_oiseauxnet_0.jpg",
+      "assets/images/choucas_des_tours_oiseauxnet_1.jpg",
+      "assets/images/choucas_des_tours_oiseauxnet_2.jpg",
+      "assets/images/choucas_des_tours_oiseauxnet_3.jpg",
+      "assets/images/choucas_des_tours_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "39 cm",
+      "envergure": "64 à 73 cm.",
+      "poids": "220 à 270 g"
+    }
+  },
+  {
+    "id": "garrulus_glandarius",
+    "nom": "Geai des chênes",
+    "sci": "Garrulus glandarius",
+    "audio": "assets/audio/garrulus_glandarius.mp3",
+    "audio_credit": "Richard Brahmstaedt",
+    "description": "Le Geai des chênes est une espèce de passereaux de la famille des Corvidae.",
+    "images": [
+      "assets/images/geai_des_chênes_oiseauxnet_0.jpg",
+      "assets/images/geai_des_chênes_oiseauxnet_1.jpg",
+      "assets/images/geai_des_chênes_oiseauxnet_2.jpg",
+      "assets/images/geai_des_chênes_oiseauxnet_3.jpg",
+      "assets/images/geai_des_chênes_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "36 cm",
+      "envergure": "-",
+      "poids": "140 à 190 g"
+    }
+  },
+  {
+    "id": "aquila_chrysaetos",
+    "nom": "Aigle royal",
+    "sci": "Aquila chrysaetos",
+    "audio": "assets/audio/aquila_chrysaetos.mp3",
+    "audio_credit": "Albert Lastukhin",
+    "description": "L'Aigle royal est une espèce d'oiseaux de la famille des Accipitridés. C'est un rapace brun foncé, avec un plumage plus brun-doré sur la tête et le cou. L'Aigle royal utilise son agilité, sa vitesse et ses serres extrêmement puissantes pour attraper ses proies : des lapins, des marmottes, des écureuils, et de grands mammifères comme les renards, les chats sauvages et domestiques, de jeunes chèvres de montagne, de jeunes bouquetins, et de jeunes cervidés. Il consomme aussi des charognes, si les proies sont rares, ainsi que des reptiles. Des oiseaux, dont des espèces de grande taille comme des cygnes ou des grues, des corbeaux et des goélands marins ont tous été notés comme proies potentielles.",
+    "images": [
+      "assets/images/aigle_royal_oiseauxnet_0.jpg",
+      "assets/images/aigle_royal_oiseauxnet_1.jpg",
+      "assets/images/aigle_royal_oiseauxnet_2.jpg",
+      "assets/images/aigle_royal_oiseauxnet_3.jpg",
+      "assets/images/aigle_royal_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "90 cm",
+      "envergure": "190 à 227 cm.",
+      "poids": "3630 à 6700 g"
+    }
+  },
+  {
+    "id": "aquila_fasciata",
+    "nom": "Aigle de Bonelli",
+    "sci": "Aquila fasciata",
+    "audio": "assets/audio/aquila_fasciata.mp3",
+    "audio_credit": "SonoNatura",
+    "description": "L'Aigle de Bonelli est une espèce d'oiseaux de proie de la famille des Accipitridés, et ses pattes garnies de plumes le désignent comme membre de la sous-famille des Aquilinae. Son nom vernaculaire provient du naturaliste italien Franco Andrea Bonelli qui en a prélevé le spécimen-type, probablement lors d'une exploration en Sardaigne.",
+    "images": [
+      "assets/images/aigle_de_bonelli_oiseauxnet_0.jpg",
+      "assets/images/aigle_de_bonelli_oiseauxnet_1.jpg",
+      "assets/images/aigle_de_bonelli_oiseauxnet_2.jpg",
+      "assets/images/aigle_de_bonelli_oiseauxnet_3.jpg",
+      "assets/images/aigle_de_bonelli_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "72 cm",
+      "envergure": "150 à 180 cm.",
+      "poids": "1500 à 2100 g"
+    }
+  },
+  {
+    "id": "hieraaetus_pennatus",
+    "nom": "Aigle botté",
+    "sci": "Hieraaetus pennatus",
+    "audio": "assets/audio/hieraaetus_pennatus.mp3",
+    "audio_credit": "Jose Ignacio Molina",
+    "description": "L'Aigle botté est une espèce d'oiseaux appartenant à la famille des Accipitridae. Sa longueur varie de 45 à 52 cm, avec une envergure maximale de 130 cm, pour un poids qui va de 0,85 à 1,25 kg.",
+    "images": [
+      "assets/images/aigle_botté_oiseauxnet_0.jpg",
+      "assets/images/aigle_botté_oiseauxnet_1.jpg",
+      "assets/images/aigle_botté_oiseauxnet_2.jpg",
+      "assets/images/aigle_botté_oiseauxnet_3.jpg",
+      "assets/images/aigle_botté_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "55 cm",
+      "envergure": "110 à 132 cm.",
+      "poids": "850 à 1250 g"
+    }
+  },
+  {
+    "id": "milvus_migrans",
+    "nom": "Milan noir",
+    "sci": "Milvus migrans",
+    "audio": "assets/audio/milvus_migrans.mp3",
+    "audio_credit": "Ray Tsu 诸仁",
+    "description": "Le Milan noir est une espèce très répandue de rapaces appartenant à la famille des Accipitridae.",
+    "images": [
+      "assets/images/milan_noir_oiseauxnet_0.jpg",
+      "assets/images/milan_noir_oiseauxnet_1.jpg",
+      "assets/images/milan_noir_oiseauxnet_2.jpg",
+      "assets/images/milan_noir_oiseauxnet_3.jpg",
+      "assets/images/milan_noir_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "60 cm",
+      "envergure": "135 à 155 cm.",
+      "poids": "650 à 950 g"
+    }
+  },
+  {
+    "id": "milvus_milvus",
+    "nom": "Milan royal",
+    "sci": "Milvus milvus",
+    "audio": "assets/audio/milvus_milvus.mp3",
+    "audio_credit": "Vladimír Nemček",
+    "description": "Le Milan royal est une espèce de rapaces de la famille des Accipitridés peuplant l'écozone paléarctique occidentale.",
+    "images": [
+      "assets/images/milan_royal_oiseauxnet_0.jpg",
+      "assets/images/milan_royal_oiseauxnet_1.jpg",
+      "assets/images/milan_royal_oiseauxnet_2.jpg",
+      "assets/images/milan_royal_oiseauxnet_3.jpg",
+      "assets/images/milan_royal_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "66 cm",
+      "envergure": "145 à 170 cm.",
+      "poids": "800 à 1600 g"
+    }
+  },
+  {
+    "id": "buteo_buteo",
+    "nom": "Buse variable",
+    "sci": "Buteo buteo",
+    "audio": "assets/audio/buteo_buteo.mp3",
+    "audio_credit": "Marek Palička",
+    "description": "La Buse variable est une espèce de rapaces diurnes de taille moyenne, appartenant à la famille des Accipitridae, très répandue dans le Paléarctique, où elle niche depuis les îles de l'océan Atlantique jusqu'au nord-ouest de la Chine et de la Mongolie, en passant par l'Europe et la Russie européenne. Sa zone d'hivernage inclut le Paléarctique occidental, l'Afrique de l'Est et australe, ainsi que le sous-continent indien.",
+    "images": [
+      "assets/images/buse_variable_oiseauxnet_0.jpg",
+      "assets/images/buse_variable_oiseauxnet_1.jpg",
+      "assets/images/buse_variable_oiseauxnet_2.jpg",
+      "assets/images/buse_variable_oiseauxnet_3.jpg",
+      "assets/images/buse_variable_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "57 cm",
+      "envergure": "113 à 128 cm.",
+      "poids": "625 à 1364 g"
+    }
+  },
+  {
+    "id": "accipiter_nisus",
+    "nom": "Épervier d'Europe",
+    "sci": "Accipiter nisus",
+    "audio": "assets/audio/accipiter_nisus.mp3",
+    "audio_credit": "Lars",
+    "description": "L'Épervier d'Europe est une petite espèce d'oiseaux de proie de la famille des Accipitridae.",
+    "images": [
+      "assets/images/épervier_d_europe_oiseauxnet_0.jpg",
+      "assets/images/épervier_d_europe_oiseauxnet_1.jpg",
+      "assets/images/épervier_d_europe_oiseauxnet_2.jpg",
+      "assets/images/épervier_d_europe_oiseauxnet_3.jpg",
+      "assets/images/épervier_d_europe_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "38 cm",
+      "envergure": "60 à 75 cm.",
+      "poids": "185 à 350 g"
+    }
+  },
+  {
+    "id": "accipiter_gentilis",
+    "nom": "Autour des palombes",
+    "sci": "Accipiter gentilis",
+    "audio": "assets/audio/accipiter_gentilis.mp3",
+    "audio_credit": "FRIEDRICH Richard",
+    "description": "L'autour des palombes est une espèce de rapaces de taille moyenne de la famille des Accipitridae. C'est une espèce proche de l'épervier d'Europe et de l'autour d'Amérique.",
+    "images": [
+      "assets/images/autour_des_palombes_oiseauxnet_0.jpg",
+      "assets/images/autour_des_palombes_oiseauxnet_1.jpg",
+      "assets/images/autour_des_palombes_oiseauxnet_2.jpg",
+      "assets/images/autour_des_palombes_oiseauxnet_3.jpg",
+      "assets/images/autour_des_palombes_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "69 cm",
+      "envergure": "96 à 127 cm.",
+      "poids": "800 à 1509 g"
+    }
+  },
+  {
+    "id": "falco_tinnunculus",
+    "nom": "Faucon crécerelle",
+    "sci": "Falco tinnunculus",
+    "audio": "assets/audio/falco_tinnunculus.mp3",
+    "audio_credit": "Jorge Leitão",
+    "description": "Le Faucon crécerelle est une espèce de petits rapaces de la famille des Falconidae, présent dans la totalité de l'Europe, en Afrique, en Arabie et en Asie jusqu'au Japon, du semi-désert jusqu'aux régions subarctiques. Il est également appelé Crécerelle commune ou Crécerelle tout court dans son aire de répartition. Très adaptable, il fréquente les milieux ouverts et peu boisés, des bords de mer jusqu'aux montagnes, mais aussi les milieux urbains et suburbains, allant jusqu'à nicher en façade de la cathédrale Notre-Dame de Paris.",
+    "images": [
+      "assets/images/faucon_crécerelle_oiseauxnet_0.jpg",
+      "assets/images/faucon_crécerelle_oiseauxnet_1.jpg",
+      "assets/images/faucon_crécerelle_oiseauxnet_2.jpg",
+      "assets/images/faucon_crécerelle_oiseauxnet_3.jpg",
+      "assets/images/faucon_crécerelle_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "39 cm",
+      "envergure": "65 à 82 cm.",
+      "poids": "154 à 314 g"
+    }
+  },
+  {
+    "id": "falco_peregrinus",
+    "nom": "Faucon pèlerin",
+    "sci": "Falco peregrinus",
+    "audio": "assets/audio/falco_peregrinus.mp3",
+    "audio_credit": "Gil Lissens",
+    "description": "Le Faucon pèlerin est une espèce robuste de rapaces, de taille moyenne, réputée pour être la plus rapide du monde en piqué. Ses proies sont presque exclusivement des oiseaux, mais certains individus peuvent également s'attaquer à de petits animaux terrestres. Ce faucon ne construit pas de nid, et niche essentiellement sur des falaises, plus rarement sur des arbres, des structures ou des bâtiments élevés. Ses populations ont très fortement diminué après la Seconde Guerre mondiale, en particulier du fait de la pollution au DDT. Depuis sa protection dans les années 1970, ses populations sont à nouveau en expansion.",
+    "images": [
+      "assets/images/faucon_pèlerin_oiseauxnet_0.jpg",
+      "assets/images/faucon_pèlerin_oiseauxnet_1.jpg",
+      "assets/images/faucon_pèlerin_oiseauxnet_2.jpg",
+      "assets/images/faucon_pèlerin_oiseauxnet_3.jpg",
+      "assets/images/faucon_pèlerin_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "50 cm",
+      "envergure": "95 à 115 cm.",
+      "poids": "750 à 1300 g"
+    }
+  },
+  {
+    "id": "falco_subbuteo",
+    "nom": "Faucon hobereau",
+    "sci": "Falco subbuteo",
+    "audio": "assets/audio/falco_subbuteo.mp3",
+    "audio_credit": "Csont-Kelemen Mátyás",
+    "description": "Le hobereau ou faucon hobereau est une espèce de rapaces diurnes appartenant à la famille des Falconidae.",
+    "images": [
+      "assets/images/faucon_hobereau_oiseauxnet_0.jpg",
+      "assets/images/faucon_hobereau_oiseauxnet_1.jpg",
+      "assets/images/faucon_hobereau_oiseauxnet_2.jpg",
+      "assets/images/faucon_hobereau_oiseauxnet_3.jpg",
+      "assets/images/faucon_hobereau_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "36 cm",
+      "envergure": "68 à 84 cm.",
+      "poids": "140 à 340 g"
+    }
+  },
+  {
+    "id": "falco_columbarius",
+    "nom": "Faucon émerillon",
+    "sci": "Falco columbarius",
+    "audio": "assets/audio/falco_columbarius.mp3",
+    "audio_credit": "Andrew Harrop",
+    "description": "Le Faucon émerillon, aussi appelé Faucon Merlin est une espèce de petits rapaces diurnes compacts et actifs des milieux ouverts. Il traque ses proies en volant à faible hauteur. Il reste longtemps à l'affût posé sur un perchoir bas ou une motte de terre.",
+    "images": [
+      "assets/images/faucon_émerillon_oiseauxnet_0.jpg",
+      "assets/images/faucon_émerillon_oiseauxnet_1.jpg",
+      "assets/images/faucon_émerillon_oiseauxnet_2.jpg",
+      "assets/images/faucon_émerillon_oiseauxnet_3.jpg",
+      "assets/images/faucon_émerillon_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "33 cm",
+      "envergure": "50 à 67 cm.",
+      "poids": "150 à 300 g"
+    }
+  },
+  {
+    "id": "pernis_apivorus",
+    "nom": "Bondrée apivore",
+    "sci": "Pernis apivorus",
+    "audio": "",
+    "audio_credit": "inconnu",
+    "description": "La Bondrée apivore est une espèce de rapaces diurnes appartenant à la famille des Accipitridae. Cette espèce protégée, insectivore et migratrice, n'est présente que durant l'été en Europe.",
+    "images": [
+      "assets/images/bondrée_apivore_oiseauxnet_0.jpg",
+      "assets/images/bondrée_apivore_oiseauxnet_1.jpg",
+      "assets/images/bondrée_apivore_oiseauxnet_2.jpg",
+      "assets/images/bondrée_apivore_oiseauxnet_3.jpg",
+      "assets/images/bondrée_apivore_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "60 cm",
+      "envergure": "118 à 150 cm.",
+      "poids": "360 à 1050 g"
+    }
+  },
+  {
+    "id": "circus_pygargus",
+    "nom": "Busard cendré",
+    "sci": "Circus pygargus",
+    "audio": "assets/audio/circus_pygargus.mp3",
+    "audio_credit": "João Tomás",
+    "description": "Le Busard cendré est une espèce de rapaces diurnes migrateurs de la famille des Accipitridés. Il est parfois aussi appelé « busard de Montagu ».",
+    "images": [
+      "assets/images/busard_cendré_oiseauxnet_0.jpg",
+      "assets/images/busard_cendré_oiseauxnet_1.jpg",
+      "assets/images/busard_cendré_oiseauxnet_2.jpg",
+      "assets/images/busard_cendré_oiseauxnet_3.jpg",
+      "assets/images/busard_cendré_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "50 cm",
+      "envergure": "97 à 115 cm.",
+      "poids": "300 à 450 g"
+    }
+  },
+  {
+    "id": "circus_aeruginosus",
+    "nom": "Busard des roseaux",
+    "sci": "Circus aeruginosus",
+    "audio": "assets/audio/circus_aeruginosus.mp3",
+    "audio_credit": "Jens Kirkeby",
+    "description": "Le Busard des roseaux, ou Busard harpaye est une espèce de rapaces diurnes appartenant à la famille des Accipitridae.",
+    "images": [
+      "assets/images/busard_des_roseaux_oiseauxnet_0.jpg",
+      "assets/images/busard_des_roseaux_oiseauxnet_1.jpg",
+      "assets/images/busard_des_roseaux_oiseauxnet_2.jpg",
+      "assets/images/busard_des_roseaux_oiseauxnet_3.jpg",
+      "assets/images/busard_des_roseaux_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "56 cm",
+      "envergure": "110 à 130 cm.",
+      "poids": "500 à 800 g"
+    }
+  },
+  {
+    "id": "circus_cyaneus",
+    "nom": "Busard Saint-Martin",
+    "sci": "Circus cyaneus",
+    "audio": "assets/audio/circus_cyaneus.mp3",
+    "audio_credit": "Robin et Julien SOURIOU",
+    "description": "Le Busard Saint-Martin est une espèce de rapaces diurnes appartenant à la famille des Accipitridae.",
+    "images": [
+      "assets/images/busard_saint_martin_oiseauxnet_0.jpg",
+      "assets/images/busard_saint_martin_oiseauxnet_1.jpg",
+      "assets/images/busard_saint_martin_oiseauxnet_2.jpg",
+      "assets/images/busard_saint_martin_oiseauxnet_3.jpg",
+      "assets/images/busard_saint_martin_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "52 cm",
+      "envergure": "99 à 121 cm.",
+      "poids": "400 à 700 g"
+    }
+  },
+  {
+    "id": "circaetus_gallicus",
+    "nom": "Circaète Jean-le-Blanc",
+    "sci": "Circaetus gallicus",
+    "audio": "assets/audio/circaetus_gallicus.mp3",
+    "audio_credit": "Pere Josa",
+    "description": "Le Circaète Jean-le-Blanc est une espèce de rapaces spécialisée dans la chasse aux reptiles, principalement les serpents.",
+    "images": [
+      "assets/images/circaète_jean_le_blanc_oiseauxnet_0.jpg",
+      "assets/images/circaète_jean_le_blanc_oiseauxnet_1.jpg",
+      "assets/images/circaète_jean_le_blanc_oiseauxnet_2.jpg",
+      "assets/images/circaète_jean_le_blanc_oiseauxnet_3.jpg",
+      "assets/images/circaète_jean_le_blanc_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "70 cm",
+      "envergure": "166 à 188 cm.",
+      "poids": "1200 à 2300 g"
+    }
+  },
+  {
+    "id": "gyps_fulvus",
+    "nom": "Vautour fauve",
+    "sci": "Gyps fulvus",
+    "audio": "assets/audio/gyps_fulvus.mp3",
+    "audio_credit": "Pere Josa",
+    "description": "Le Vautour fauve, ou anciennement le griffon, est une espèce d'oiseaux charognards de la famille des Accipitridae.",
+    "images": [
+      "assets/images/vautour_fauve_oiseauxnet_0.jpg",
+      "assets/images/vautour_fauve_oiseauxnet_1.jpg",
+      "assets/images/vautour_fauve_oiseauxnet_2.jpg",
+      "assets/images/vautour_fauve_oiseauxnet_3.jpg",
+      "assets/images/vautour_fauve_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "110 cm",
+      "envergure": "240 à 280 cm.",
+      "poids": "8000 à 11000 g"
+    }
+  },
+  {
+    "id": "aegypius_monachus",
+    "nom": "Vautour moine",
+    "sci": "Aegypius monachus",
+    "audio": "assets/audio/aegypius_monachus.mp3",
+    "audio_credit": "Thomas SIGNEAU",
+    "description": "Le Vautour moine est une espèce de rapaces diurnes charognards appartenant à la famille des Accipitridae.",
+    "images": [
+      "assets/images/vautour_moine_oiseauxnet_0.jpg",
+      "assets/images/vautour_moine_oiseauxnet_1.jpg",
+      "assets/images/vautour_moine_oiseauxnet_2.jpg",
+      "assets/images/vautour_moine_oiseauxnet_3.jpg",
+      "assets/images/vautour_moine_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "107 cm",
+      "envergure": "250 à 295 cm.",
+      "poids": "7000 à 12500 g"
+    }
+  },
+  {
+    "id": "neophron_percnopterus",
+    "nom": "Vautour percnoptère",
+    "sci": "Neophron percnopterus",
+    "audio": "assets/audio/neophron_percnopterus.mp3",
+    "audio_credit": "Eduardo Realinho",
+    "description": "Le Vautour percnoptère, aussi appelé Percnoptère d'Égypte, est une espèce de rapaces de l'Ancien Monde. On le trouve en Afrique, dans le sud de l'Europe, et en Asie.",
+    "images": [],
+    "image_credits": [],
+    "biometrie": {}
+  },
+  {
+    "id": "pandion_haliaetus",
+    "nom": "Balbuzard pêcheur",
+    "sci": "Pandion haliaetus",
+    "audio": "assets/audio/pandion_haliaetus.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Balbuzard pêcheur est une espèce de rapaces diurnes de taille moyenne ; c'est un piscivore spécialisé et cosmopolite.",
+    "images": [
+      "assets/images/balbuzard_pêcheur_oiseauxnet_0.jpg",
+      "assets/images/balbuzard_pêcheur_oiseauxnet_1.jpg",
+      "assets/images/balbuzard_pêcheur_oiseauxnet_2.jpg",
+      "assets/images/balbuzard_pêcheur_oiseauxnet_3.jpg",
+      "assets/images/balbuzard_pêcheur_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "58 cm",
+      "envergure": "127 à 174 cm.",
+      "poids": "1200 à 2050 g"
+    }
+  },
+  {
+    "id": "strix_aluco",
+    "nom": "Chouette hulotte",
+    "sci": "Strix aluco",
+    "audio": "assets/audio/strix_aluco.mp3",
+    "audio_credit": "Eric Lewenhaupt",
+    "description": "La Chouette hulotte ou Chat-huant, est une espèce d'oiseaux de la famille des Strigidae. Ce rapace nocturne est très répandu en Eurasie, notamment en Europe.",
+    "images": [
+      "assets/images/chouette_hulotte_oiseauxnet_0.jpg",
+      "assets/images/chouette_hulotte_oiseauxnet_1.jpg",
+      "assets/images/chouette_hulotte_oiseauxnet_2.jpg",
+      "assets/images/chouette_hulotte_oiseauxnet_3.jpg",
+      "assets/images/chouette_hulotte_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "39 cm",
+      "envergure": "94 à 104 cm.",
+      "poids": "420 à 590 g"
+    }
+  },
+  {
+    "id": "tyto_alba",
+    "nom": "Chouette effraie",
+    "sci": "Tyto alba",
+    "audio": "assets/audio/tyto_alba.mp3",
+    "audio_credit": "Thijs Calu",
+    "description": "L'Effraie des clochers est une espèce de chouettes anciennement appelée Chouette effraie ou dame blanche. L'espèce peuple tous les continents, à l'exception de l'Antarctique et certaines îles. C'est l'espèce de Strigiformes la plus répandue au monde.",
+    "images": [],
+    "image_credits": [],
+    "biometrie": {}
+  },
+  {
+    "id": "aegolius_funereus",
+    "nom": "Chouette de Tengmalm",
+    "sci": "Aegolius funereus",
+    "audio": "assets/audio/aegolius_funereus.mp3",
+    "audio_credit": "Bill Pyle",
+    "description": "La Nyctale de Tengmalm ou Chouette de Tengmalm ou, encore, Chouette boréale est une espèce de petits rapaces nocturnes de la famille des Strigidae. Difficile à observer, elle est protégée au niveau européen. Espèce d'origine boréale, elle est peu présente en France, on la retrouve principalement dans les massifs montagneux et les forêts froides, en altitude et les principaux plateaux de l'Est.",
+    "images": [
+      "assets/images/chouette_de_tengmalm_oiseauxnet_0.jpg",
+      "assets/images/chouette_de_tengmalm_oiseauxnet_1.jpg",
+      "assets/images/chouette_de_tengmalm_oiseauxnet_2.jpg",
+      "assets/images/chouette_de_tengmalm_oiseauxnet_3.jpg",
+      "assets/images/chouette_de_tengmalm_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "21 à 28 cm",
+      "envergure": "52 à 58 cm.",
+      "poids": "120 à 210 g"
+    }
+  },
+  {
+    "id": "athene_noctua",
+    "nom": "Chouette chevêche",
+    "sci": "Athene noctua",
+    "audio": "assets/audio/athene_noctua.mp3",
+    "audio_credit": "Fabien H",
+    "description": "La Chevêche d'Athéna, ou anciennement \"Chouette chevêche\", est une espèce d'oiseaux de la famille des strigidés de petite taille à l'aspect trapu. C'est le plus diurne des strigidés, malgré son nom latin. Dans l'Antiquité grecque, elle était l'attribut d'Athéna, déesse de la sagesse.",
+    "images": [],
+    "image_credits": [],
+    "biometrie": {}
+  },
+  {
+    "id": "asio_otus",
+    "nom": "Hibou moyen-duc",
+    "sci": "Asio otus",
+    "audio": "assets/audio/asio_otus.mp3",
+    "audio_credit": "Lars Edenius",
+    "description": "Le Hibou moyen-duc est une espèce de rapaces nocturnes de la famille des strigidés, peuplant l'Europe, l'Asie et l'Amérique du Nord.",
+    "images": [
+      "assets/images/hibou_moyen_duc_oiseauxnet_0.jpg",
+      "assets/images/hibou_moyen_duc_oiseauxnet_1.jpg",
+      "assets/images/hibou_moyen_duc_oiseauxnet_2.jpg",
+      "assets/images/hibou_moyen_duc_oiseauxnet_3.jpg",
+      "assets/images/hibou_moyen_duc_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "35 à 40 cm",
+      "envergure": "90 à 100 cm.",
+      "poids": "260 à 435 g"
+    }
+  },
+  {
+    "id": "bubo_bubo",
+    "nom": "Hibou grand-duc",
+    "sci": "Bubo bubo",
+    "audio": "assets/audio/bubo_bubo.mp3",
+    "audio_credit": "Mario Slatki",
+    "description": "Le Hibou grand-duc, également appelé Grand-duc d'Europe, est une espèce de rapaces nocturnes qui vit dans une bonne partie de l'Europe et de l'Asie.",
+    "images": [],
+    "image_credits": [],
+    "biometrie": {}
+  },
+  {
+    "id": "ardea_cinerea",
+    "nom": "Héron cendré",
+    "sci": "Ardea cinerea",
+    "audio": "assets/audio/ardea_cinerea.mp3",
+    "audio_credit": "Reyt Sylvain",
+    "description": "Le héron cendré est une espèce d'oiseaux échassiers de la famille des Ardeidae.",
+    "images": [
+      "assets/images/héron_cendré_oiseauxnet_0.jpg",
+      "assets/images/héron_cendré_oiseauxnet_1.jpg",
+      "assets/images/héron_cendré_oiseauxnet_2.jpg",
+      "assets/images/héron_cendré_oiseauxnet_3.jpg",
+      "assets/images/héron_cendré_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "98 cm",
+      "envergure": "175 à 195 cm.",
+      "poids": "600 à 1200 g"
+    }
+  },
+  {
+    "id": "bubulcus_ibis",
+    "nom": "Héron garde-boeufs",
+    "sci": "Bubulcus ibis",
+    "audio": "assets/audio/bubulcus_ibis.mp3",
+    "audio_credit": "Kauê Werner",
+    "description": "Le héron garde-bœufs ou encore pique-bœufs, est une espèce d'oiseaux échassiers, de la famille des Ardéidés, qui compte les hérons, les aigrettes, les butors et apparentés.",
+    "images": [
+      "assets/images/héron_garde_boeufs_oiseauxnet_0.jpg",
+      "assets/images/héron_garde_boeufs_oiseauxnet_1.jpg",
+      "assets/images/héron_garde_boeufs_oiseauxnet_2.jpg",
+      "assets/images/héron_garde_boeufs_oiseauxnet_3.jpg",
+      "assets/images/héron_garde_boeufs_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "56 cm",
+      "envergure": "88 à 96 cm.",
+      "poids": "300 à 400 g"
+    }
+  },
+  {
+    "id": "ardea_purpurea",
+    "nom": "Héron pourpré",
+    "sci": "Ardea purpurea",
+    "audio": "assets/audio/ardea_purpurea.mp3",
+    "audio_credit": "Paul Kelly",
+    "description": "Le Héron pourpré est une espèce d'oiseaux de la famille des Ardeidae. C'est un oiseau migrateur paléarctique, présent et nicheur en Europe et Afrique du Nord, hivernant occasionnellement en Europe de l'Ouest et du Sud, protégé.",
+    "images": [
+      "assets/images/héron_pourpré_oiseauxnet_0.jpg",
+      "assets/images/héron_pourpré_oiseauxnet_1.jpg",
+      "assets/images/héron_pourpré_oiseauxnet_2.jpg",
+      "assets/images/héron_pourpré_oiseauxnet_3.jpg",
+      "assets/images/héron_pourpré_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "90 cm",
+      "envergure": "120 à 150 cm.",
+      "poids": "600 à 1400 g"
+    }
+  },
+  {
+    "id": "egretta_garzetta",
+    "nom": "Aigrette garzette",
+    "sci": "Egretta garzetta",
+    "audio": "assets/audio/egretta_garzetta.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "L'Aigrette garzette est une espèce d'oiseaux de la famille des Ardeidae.",
+    "images": [],
+    "image_credits": [],
+    "biometrie": {
+      "taille": "65 cm",
+      "envergure": "86 à 104 cm.",
+      "poids": "500 à 638 g"
+    }
+  },
+  {
+    "id": "nycticorax_nycticorax",
+    "nom": "Bihoreau gris",
+    "sci": "Nycticorax nycticorax",
+    "audio": "assets/audio/nycticorax_nycticorax.mp3",
+    "audio_credit": "Bo Shunqi 薄顺奇",
+    "description": "Le Bihoreau gris ou Héron bihoreau, est une espèce d'oiseaux échassiers de la famille des Ardeidés que l'on retrouve dans de nombreuses parties du monde.",
+    "images": [
+      "assets/images/bihoreau_gris_oiseauxnet_0.jpg",
+      "assets/images/bihoreau_gris_oiseauxnet_1.jpg",
+      "assets/images/bihoreau_gris_oiseauxnet_2.jpg",
+      "assets/images/bihoreau_gris_oiseauxnet_3.jpg",
+      "assets/images/bihoreau_gris_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "65 cm",
+      "envergure": "105 à 112 cm.",
+      "poids": "730 à 1015 g"
+    }
+  },
+  {
+    "id": "ardeola_ralloides",
+    "nom": "Crabier chevelu",
+    "sci": "Ardeola ralloides",
+    "audio": "assets/audio/ardeola_ralloides.mp3",
+    "audio_credit": "Julien Birard",
+    "description": "Le Crabier chevelu ou héron crabier, est une espèce d'oiseaux échassiers de taille moyenne de la famille des Ardeidae.",
+    "images": [
+      "assets/images/crabier_chevelu_oiseauxnet_0.jpg",
+      "assets/images/crabier_chevelu_oiseauxnet_1.jpg",
+      "assets/images/crabier_chevelu_oiseauxnet_2.jpg",
+      "assets/images/crabier_chevelu_oiseauxnet_3.jpg",
+      "assets/images/crabier_chevelu_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "47 cm",
+      "envergure": "80 à 92 cm.",
+      "poids": "250 à 300 g"
+    }
+  },
+  {
+    "id": "anas_platyrhynchos",
+    "nom": "Canard colvert",
+    "sci": "Anas platyrhynchos",
+    "audio": "assets/audio/anas_platyrhynchos.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Canard colvert, col-vert, ou Canard malard au Canada, est une espèce d'oiseaux de l'ordre des Ansériformes, de la famille des Anatidés et de la sous-famille des Anatinés. C'est certainement le plus connu et reconnaissable de tous les canards, du fait de l'existence de races de canards domestiques issues de cette espèce.",
+    "images": [
+      "assets/images/canard_colvert_oiseauxnet_0.jpg",
+      "assets/images/canard_colvert_oiseauxnet_1.jpg",
+      "assets/images/canard_colvert_oiseauxnet_2.jpg",
+      "assets/images/canard_colvert_oiseauxnet_3.jpg",
+      "assets/images/canard_colvert_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "65 cm",
+      "envergure": "75 à 100 cm.",
+      "poids": "850 à 1400 g"
+    }
+  },
+  {
+    "id": "mareca_strepera",
+    "nom": "Canard chipeau",
+    "sci": "Mareca strepera",
+    "audio": "assets/audio/mareca_strepera.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Canard chipeau, autrefois appelé « Ridelle » ou « ridenne » en picard, est une espèce d'oiseaux de la famille des Anatidés présente en Eurasie et en Amérique du Nord.",
+    "images": [
+      "assets/images/canard_chipeau_oiseauxnet_0.jpg",
+      "assets/images/canard_chipeau_oiseauxnet_1.jpg",
+      "assets/images/canard_chipeau_oiseauxnet_2.jpg",
+      "assets/images/canard_chipeau_oiseauxnet_3.jpg",
+      "assets/images/canard_chipeau_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "58 cm",
+      "envergure": "84 à 95 cm.",
+      "poids": "550 à 900 g"
+    }
+  },
+  {
+    "id": "spatula_clypeata",
+    "nom": "Canard souchet",
+    "sci": "Spatula clypeata",
+    "audio": "assets/audio/spatula_clypeata.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Canard souchet est une espèce de canards barboteurs et « filtreurs » qui se reproduit dans les zones septentrionales de l'Eurasie et dans la plupart de l'Amérique du Nord. Il est accidentel en Australie. Habituellement placé dans le genre Anas, cette espèce, assez différente du canard colvert, est placée avec d'autres espèces aux ailes bleues dans le genre Spatula par certains auteurs.",
+    "images": [
+      "assets/images/canard_souchet_oiseauxnet_0.jpg",
+      "assets/images/canard_souchet_oiseauxnet_1.jpg",
+      "assets/images/canard_souchet_oiseauxnet_2.jpg",
+      "assets/images/canard_souchet_oiseauxnet_3.jpg",
+      "assets/images/canard_souchet_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "56 cm",
+      "envergure": "70 à 85 cm.",
+      "poids": "500 à 700 g"
+    }
+  },
+  {
+    "id": "anas_crecca",
+    "nom": "Sarcelle d'hiver",
+    "sci": "Anas crecca",
+    "audio": "assets/audio/anas_crecca.mp3",
+    "audio_credit": "Will Scott",
+    "description": "La Sarcelle d'hiver est la plus petite espèce de canards de surface. Elle se rencontre en Europe, Amérique du Nord et aussi en Asie. Dans ces régions, elle vit dans les zones tempérées à septentrionales. C'est un migrateur partiel, elle est chassée en grand nombre en Europe et en Amérique du Nord. La population nord-américaine est considérée par certains ornithologues comme une espèce à part, la Sarcelle à ailes vertes, et par d'autres comme une sous-espèce.",
+    "images": [
+      "assets/images/sarcelle_d_hiver_oiseauxnet_0.jpg",
+      "assets/images/sarcelle_d_hiver_oiseauxnet_1.jpg",
+      "assets/images/sarcelle_d_hiver_oiseauxnet_2.jpg",
+      "assets/images/sarcelle_d_hiver_oiseauxnet_3.jpg",
+      "assets/images/sarcelle_d_hiver_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "43 cm",
+      "envergure": "54 à 59 cm.",
+      "poids": "250 à 400 g"
+    }
+  },
+  {
+    "id": "spatula_querquedula",
+    "nom": "Sarcelle d'été",
+    "sci": "Spatula querquedula",
+    "audio": "assets/audio/spatula_querquedula.mp3",
+    "audio_credit": "Grzegorz Lorek",
+    "description": "La Sarcelle d'été est une espèce d'oiseaux aquatiques appartenant à la famille des Anatidae.",
+    "images": [
+      "assets/images/sarcelle_d_été_oiseauxnet_0.jpg",
+      "assets/images/sarcelle_d_été_oiseauxnet_1.jpg",
+      "assets/images/sarcelle_d_été_oiseauxnet_2.jpg",
+      "assets/images/sarcelle_d_été_oiseauxnet_3.jpg",
+      "assets/images/sarcelle_d_été_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "41 cm",
+      "envergure": "58 à 69 cm.",
+      "poids": "300 à 440 g"
+    }
+  },
+  {
+    "id": "aythya_ferina",
+    "nom": "Fuligule milouin",
+    "sci": "Aythya ferina",
+    "audio": "assets/audio/aythya_ferina.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Fuligule milouin ou Milouin d'Europe est une espèce de canards plongeurs appartenant à la famille des anatidés. Bien qu'elle soit encore commune en beaucoup d'endroits, cette espèce subit un déclin important et est donc considérée comme menacée d'extinction.",
+    "images": [
+      "assets/images/fuligule_milouin_oiseauxnet_0.jpg",
+      "assets/images/fuligule_milouin_oiseauxnet_1.jpg",
+      "assets/images/fuligule_milouin_oiseauxnet_2.jpg",
+      "assets/images/fuligule_milouin_oiseauxnet_3.jpg",
+      "assets/images/fuligule_milouin_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "58 cm",
+      "envergure": "72 à 82 cm.",
+      "poids": "700 à 1100 g"
+    }
+  },
+  {
+    "id": "aythya_fuligula",
+    "nom": "Fuligule morillon",
+    "sci": "Aythya fuligula",
+    "audio": "assets/audio/aythya_fuligula.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Fuligule morillon ou morillon huppé est une espèce de canards plongeurs appartenant à la famille des Anatidés.",
+    "images": [
+      "assets/images/fuligule_morillon_oiseauxnet_0.jpg",
+      "assets/images/fuligule_morillon_oiseauxnet_1.jpg",
+      "assets/images/fuligule_morillon_oiseauxnet_2.jpg",
+      "assets/images/fuligule_morillon_oiseauxnet_3.jpg",
+      "assets/images/fuligule_morillon_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "47 cm",
+      "envergure": "67 à 73 cm.",
+      "poids": "550 à 900 g"
+    }
+  },
+  {
+    "id": "netta_rufina",
+    "nom": "Nette rousse",
+    "sci": "Netta rufina",
+    "audio": "assets/audio/netta_rufina.mp3",
+    "audio_credit": "Jarek Matusiak",
+    "description": "La Nette rousse est une espèce de canards plongeurs de la famille des anatidés.",
+    "images": [
+      "assets/images/nette_rousse_oiseauxnet_0.jpg",
+      "assets/images/nette_rousse_oiseauxnet_1.jpg",
+      "assets/images/nette_rousse_oiseauxnet_2.jpg",
+      "assets/images/nette_rousse_oiseauxnet_3.jpg",
+      "assets/images/nette_rousse_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "58 cm",
+      "envergure": "84 à 88 cm.",
+      "poids": "1000 à 1300 g"
+    }
+  },
+  {
+    "id": "tadorna_tadorna",
+    "nom": "Tadorne de Belon",
+    "sci": "Tadorna tadorna",
+    "audio": "assets/audio/tadorna_tadorna.mp3",
+    "audio_credit": "Will Scott",
+    "description": "Le Tadorne de Belon est une espèce d'oiseaux appartenant à la famille des anatidés, peut-être appelé dans l'Antiquité chenalopex, vulpanser, ou « oie-renard ». Comme les autres espèces du genre Tadorna, il présente des caractéristiques intermédiaires entre celles des oies et celles des canards. Cette position intermédiaire est confirmée par les études phylogénétiques récentes.",
+    "images": [
+      "assets/images/tadorne_de_belon_oiseauxnet_0.jpg",
+      "assets/images/tadorne_de_belon_oiseauxnet_1.jpg",
+      "assets/images/tadorne_de_belon_oiseauxnet_2.jpg",
+      "assets/images/tadorne_de_belon_oiseauxnet_3.jpg",
+      "assets/images/tadorne_de_belon_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "67 cm",
+      "envergure": "110 à 133 cm.",
+      "poids": "562 à 1400 g"
+    }
+  },
+  {
+    "id": "scolopax_rusticola",
+    "nom": "Bécasse des bois",
+    "sci": "Scolopax rusticola",
+    "audio": "assets/audio/scolopax_rusticola.mp3",
+    "audio_credit": "Jarek Matusiak",
+    "description": "La Bécasse des bois est une espèce d'oiseaux de taille moyenne, de la famille des Scolopacidae, oiseau migrateur discret et essentiellement nocturne.",
+    "images": [
+      "assets/images/bécasse_des_bois_oiseauxnet_0.jpg",
+      "assets/images/bécasse_des_bois_oiseauxnet_1.jpg",
+      "assets/images/bécasse_des_bois_oiseauxnet_2.jpg",
+      "assets/images/bécasse_des_bois_oiseauxnet_3.jpg",
+      "assets/images/bécasse_des_bois_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "35 cm",
+      "envergure": "56 à 60 cm.",
+      "poids": "250 à 420 g"
+    }
+  },
+  {
+    "id": "gallinago_gallinago",
+    "nom": "Bécassine des marais",
+    "sci": "Gallinago gallinago",
+    "audio": "assets/audio/gallinago_gallinago.mp3",
+    "audio_credit": "Paul Kelly",
+    "description": "La Bécassine des marais est une espèce d'oiseaux de la famille des Scolopacidae. Il s'agit de l'une des trois espèces de bécassines vivant en France.",
+    "images": [
+      "assets/images/bécassine_des_marais_oiseauxnet_0.jpg",
+      "assets/images/bécassine_des_marais_oiseauxnet_1.jpg",
+      "assets/images/bécassine_des_marais_oiseauxnet_2.jpg",
+      "assets/images/bécassine_des_marais_oiseauxnet_3.jpg",
+      "assets/images/bécassine_des_marais_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "27 cm",
+      "envergure": "44 à 47 cm.",
+      "poids": "80 à 120 g"
+    }
+  },
+  {
+    "id": "actitis_hypoleucos",
+    "nom": "Chevalier guignette",
+    "sci": "Actitis hypoleucos",
+    "audio": "assets/audio/actitis_hypoleucos.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Chevalier guignette est une espèce d'oiseaux limicoles de la famille des Scolopacidae. Ce petit échassier est assez répandu, et se rencontre dans la majeure partie de l'Eurasie, ainsi qu'en Afrique lors de ses migrations. Le hochement de sa tête et de sa queue lorsqu'il se pose est l'une de ses principales caractéristiques.",
+    "images": [
+      "assets/images/chevalier_guignette_oiseauxnet_0.jpg",
+      "assets/images/chevalier_guignette_oiseauxnet_1.jpg",
+      "assets/images/chevalier_guignette_oiseauxnet_2.jpg",
+      "assets/images/chevalier_guignette_oiseauxnet_3.jpg",
+      "assets/images/chevalier_guignette_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "21 cm",
+      "envergure": "38 à 41 cm.",
+      "poids": "40 à 60 g"
+    }
+  },
+  {
+    "id": "tringa_ochropus",
+    "nom": "Chevalier culblanc",
+    "sci": "Tringa ochropus",
+    "audio": "assets/audio/tringa_ochropus.mp3",
+    "audio_credit": "Reyt Sylvain",
+    "description": "Description indisponible.",
+    "images": [],
+    "image_credits": [],
+    "biometrie": {}
+  },
+  {
+    "id": "recurvirostra_avosetta",
+    "nom": "Avocette élégante",
+    "sci": "Recurvirostra avosetta",
+    "audio": "assets/audio/recurvirostra_avosetta.mp3",
+    "audio_credit": "Pere Josa",
+    "description": "L'Avocette élégante est une espèce d'oiseaux de la famille des Recurvirostridae, la seule espèce du genre Recurvirostra vivant en Europe.",
+    "images": [
+      "assets/images/avocette_élégante_oiseauxnet_0.jpg",
+      "assets/images/avocette_élégante_oiseauxnet_1.jpg",
+      "assets/images/avocette_élégante_oiseauxnet_2.jpg",
+      "assets/images/avocette_élégante_oiseauxnet_3.jpg",
+      "assets/images/avocette_élégante_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "45 cm",
+      "envergure": "77 à 80 cm.",
+      "poids": "250 à 400 g"
+    }
+  },
+  {
+    "id": "himantopus_himantopus",
+    "nom": "Échasse blanche",
+    "sci": "Himantopus himantopus",
+    "audio": "assets/audio/himantopus_himantopus.mp3",
+    "audio_credit": "Feather V",
+    "description": "L'Échasse blanche est une espèce d'oiseaux échassiers limicoles de la famille des Recurvirostridae.",
+    "images": [
+      "assets/images/échasse_blanche_oiseauxnet_0.jpg",
+      "assets/images/échasse_blanche_oiseauxnet_1.jpg",
+      "assets/images/échasse_blanche_oiseauxnet_2.jpg",
+      "assets/images/échasse_blanche_oiseauxnet_3.jpg",
+      "assets/images/échasse_blanche_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "40 cm",
+      "envergure": "67 à 83 cm.",
+      "poids": "160 à 200 g"
+    }
+  },
+  {
+    "id": "numenius_arquata",
+    "nom": "Courlis cendré",
+    "sci": "Numenius arquata",
+    "audio": "assets/audio/numenius_arquata.mp3",
+    "audio_credit": "wilmet sebastien",
+    "description": "Le Courlis cendré est une espèce d'oiseaux limicoles de la grande famille des scolopacidés. C'est celui des courlis qui habite l'espace le plus étendu, puisqu'il se reproduit dans toute l'Europe tempérée et l'Asie. On en a même aperçu en Nouvelle-Écosse. En Europe, on l’appelle souvent simplement « courlis », parce que c’est l’espèce de courlis la plus commune.",
+    "images": [
+      "assets/images/courlis_cendré_oiseauxnet_0.jpg",
+      "assets/images/courlis_cendré_oiseauxnet_1.jpg",
+      "assets/images/courlis_cendré_oiseauxnet_2.jpg",
+      "assets/images/courlis_cendré_oiseauxnet_3.jpg",
+      "assets/images/courlis_cendré_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "60 cm",
+      "envergure": "80 à 100 cm.",
+      "poids": "475 à 1360 g"
+    }
+  },
+  {
+    "id": "pluvialis_apricaria",
+    "nom": "Pluvier doré",
+    "sci": "Pluvialis apricaria",
+    "audio": "assets/audio/pluvialis_apricaria.mp3",
+    "audio_credit": "David Tattersley",
+    "description": "Le Pluvier doré est une espèce d'oiseaux limicoles de taille moyenne appartenant à la famille des Charadriidae.",
+    "images": [
+      "assets/images/pluvier_doré_oiseauxnet_0.jpg",
+      "assets/images/pluvier_doré_oiseauxnet_1.jpg",
+      "assets/images/pluvier_doré_oiseauxnet_2.jpg",
+      "assets/images/pluvier_doré_oiseauxnet_3.jpg",
+      "assets/images/pluvier_doré_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "29 cm",
+      "envergure": "67 à 76 cm.",
+      "poids": "140 à 210 g"
+    }
+  },
+  {
+    "id": "pluvialis_squatarola",
+    "nom": "Pluvier argenté",
+    "sci": "Pluvialis squatarola",
+    "audio": "assets/audio/pluvialis_squatarola.mp3",
+    "audio_credit": "Le Louaver Manuel",
+    "description": "Le Pluvier argenté est une espèce d'Oiseaux limicoles migrateurs de taille moyenne appartenant à la famille des Charadriidae.",
+    "images": [
+      "assets/images/pluvier_argenté_oiseauxnet_0.jpg",
+      "assets/images/pluvier_argenté_oiseauxnet_1.jpg",
+      "assets/images/pluvier_argenté_oiseauxnet_2.jpg",
+      "assets/images/pluvier_argenté_oiseauxnet_3.jpg",
+      "assets/images/pluvier_argenté_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "31 cm",
+      "envergure": "71 à 83 cm.",
+      "poids": "170 à 240 g"
+    }
+  },
+  {
+    "id": "charadrius_alexandrinus",
+    "nom": "Gravelot à collier interrompu",
+    "sci": "Charadrius alexandrinus",
+    "audio": "assets/audio/charadrius_alexandrinus.mp3",
+    "audio_credit": "Sven Normant",
+    "description": "Le Pluvier à collier interrompu ou Gravelot à collier interrompu, est une espèce de petits oiseaux limicoles appartenant à la famille des Charadriidae.",
+    "images": [
+      "assets/images/gravelot_à_collier_interrompu_oiseauxnet_0.jpg",
+      "assets/images/gravelot_à_collier_interrompu_oiseauxnet_1.jpg",
+      "assets/images/gravelot_à_collier_interrompu_oiseauxnet_2.jpg",
+      "assets/images/gravelot_à_collier_interrompu_oiseauxnet_3.jpg",
+      "assets/images/gravelot_à_collier_interrompu_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "18 cm",
+      "envergure": "42 à 45 cm.",
+      "poids": "40 à 60 g"
+    }
+  },
+  {
+    "id": "charadrius_hiaticula",
+    "nom": "Gravelot de rivage",
+    "sci": "Charadrius hiaticula",
+    "audio": "assets/audio/charadrius_hiaticula.mp3",
+    "audio_credit": "Ricardo Hevia",
+    "description": "Description indisponible.",
+    "images": [],
+    "image_credits": [],
+    "biometrie": {}
+  },
+  {
+    "id": "larus_argentatus",
+    "nom": "Goéland argenté",
+    "sci": "Larus argentatus",
+    "audio": "assets/audio/larus_argentatus.mp3",
+    "audio_credit": "Stein Ø. Nilsen",
+    "description": "Le Goéland argenté est une espèce d'oiseaux de mer européens de taille moyenne de la famille des Laridae. Blanc à dos gris, il est génétiquement proche des autres goélands à tête blanche du genre Larus. Mâle et femelle sont presque identiques, mais le juvénile possède un plumage très différent et met quatre ans à acquérir son plumage d'adulte.",
+    "images": [
+      "assets/images/goéland_argenté_oiseauxnet_0.jpg",
+      "assets/images/goéland_argenté_oiseauxnet_1.jpg",
+      "assets/images/goéland_argenté_oiseauxnet_2.jpg",
+      "assets/images/goéland_argenté_oiseauxnet_3.jpg",
+      "assets/images/goéland_argenté_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "67 cm",
+      "envergure": "135 à 145 cm.",
+      "poids": "750 à 1250 g"
+    }
+  },
+  {
+    "id": "larus_fuscus",
+    "nom": "Goéland brun",
+    "sci": "Larus fuscus",
+    "audio": "assets/audio/larus_fuscus.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Goéland brun est une espèce d'oiseaux de la famille des Laridae.",
+    "images": [
+      "assets/images/goéland_brun_oiseauxnet_0.jpg",
+      "assets/images/goéland_brun_oiseauxnet_1.jpg",
+      "assets/images/goéland_brun_oiseauxnet_2.jpg",
+      "assets/images/goéland_brun_oiseauxnet_3.jpg",
+      "assets/images/goéland_brun_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "61 cm",
+      "envergure": "124 à 127 cm.",
+      "poids": "650 à 1000 g"
+    }
+  },
+  {
+    "id": "larus_michahellis",
+    "nom": "Goéland leucophée",
+    "sci": "Larus michahellis",
+    "audio": "assets/audio/larus_michahellis.mp3",
+    "audio_credit": "Dimitri",
+    "description": "Le Goéland leucophée est une espèce d'oiseaux qui appartient au groupe des goélands et à la famille des laridés, de taille moyenne, à manteau gris et pattes jaunes. Le goéland leucophée est le goéland le plus répandu sur les côtes méditerranéennes de France, où il est souvent appelé gabian, de son nom provençal et occitan.",
+    "images": [
+      "assets/images/goéland_leucophée_oiseauxnet_0.jpg",
+      "assets/images/goéland_leucophée_oiseauxnet_1.jpg",
+      "assets/images/goéland_leucophée_oiseauxnet_2.jpg",
+      "assets/images/goéland_leucophée_oiseauxnet_3.jpg",
+      "assets/images/goéland_leucophée_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "68 cm",
+      "envergure": "130 à 158 cm.",
+      "poids": "750 à 1250 g"
+    }
+  },
+  {
+    "id": "chroicocephalus_ridibundus",
+    "nom": "Mouette rieuse",
+    "sci": "Chroicocephalus ridibundus",
+    "audio": "assets/audio/chroicocephalus_ridibundus.mp3",
+    "audio_credit": "Ulf Elman",
+    "description": "La Mouette rieuse est une espèce d'oiseaux de la famille des Laridae.",
+    "images": [
+      "assets/images/mouette_rieuse_oiseauxnet_0.jpg",
+      "assets/images/mouette_rieuse_oiseauxnet_1.jpg",
+      "assets/images/mouette_rieuse_oiseauxnet_2.jpg",
+      "assets/images/mouette_rieuse_oiseauxnet_3.jpg",
+      "assets/images/mouette_rieuse_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "43 cm",
+      "envergure": "94 à 110 cm.",
+      "poids": "225 à 350 g"
+    }
+  },
+  {
+    "id": "ichthyaetus_melanocephalus",
+    "nom": "Mouette mélanocéphale",
+    "sci": "Ichthyaetus melanocephalus",
+    "audio": "assets/audio/ichthyaetus_melanocephalus.mp3",
+    "audio_credit": "Gottfrid Sjödahl",
+    "description": "La Mouette mélanocéphale est une espèce d'oiseaux appartenant à la famille des Laridae.",
+    "images": [
+      "assets/images/mouette_mélanocéphale_oiseauxnet_0.jpg",
+      "assets/images/mouette_mélanocéphale_oiseauxnet_1.jpg",
+      "assets/images/mouette_mélanocéphale_oiseauxnet_2.jpg",
+      "assets/images/mouette_mélanocéphale_oiseauxnet_3.jpg",
+      "assets/images/mouette_mélanocéphale_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "38 cm",
+      "envergure": "98 à 105 cm.",
+      "poids": "220 à 380 g"
+    }
+  },
+  {
+    "id": "sterna_hirundo",
+    "nom": "Sterne pierregarin",
+    "sci": "Sterna hirundo",
+    "audio": "assets/audio/sterna_hirundo.mp3",
+    "audio_credit": "Stein Ø. Nilsen",
+    "description": "La Sterne pierregarin, aussi connue sous les noms d'estorlet, de goélette ou d'hirondelle de mer, est une espèce d'oiseaux de la famille des laridés, migrateur et possédant une vaste aire de répartition dans les régions tempérées de l'hémisphère nord et migrant dans les zones tropicales et dans l'hémisphère sud.",
+    "images": [
+      "assets/images/sterne_pierregarin_oiseauxnet_0.jpg",
+      "assets/images/sterne_pierregarin_oiseauxnet_1.jpg",
+      "assets/images/sterne_pierregarin_oiseauxnet_2.jpg",
+      "assets/images/sterne_pierregarin_oiseauxnet_3.jpg",
+      "assets/images/sterne_pierregarin_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "39 cm",
+      "envergure": "72 à 83 cm.",
+      "poids": "90 à 150 g"
+    }
+  },
+  {
+    "id": "sternula_albifrons",
+    "nom": "Sterne naine",
+    "sci": "Sternula albifrons",
+    "audio": "assets/audio/sternula_albifrons.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "La Sterne naine est une espèce d'oiseaux de la famille des Laridae.",
+    "images": [
+      "assets/images/sterne_naine_oiseauxnet_0.jpg",
+      "assets/images/sterne_naine_oiseauxnet_1.jpg",
+      "assets/images/sterne_naine_oiseauxnet_2.jpg",
+      "assets/images/sterne_naine_oiseauxnet_3.jpg",
+      "assets/images/sterne_naine_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "28 cm",
+      "envergure": "47 à 55 cm.",
+      "poids": "50 à 65 g"
+    }
+  },
+  {
+    "id": "tadorna_ferruginea",
+    "nom": "Tadorne casarca",
+    "sci": "Tadorna ferruginea",
+    "audio": "assets/audio/tadorna_ferruginea.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Tadorne casarca est une espèce d'oiseaux appartenant à la famille des anatidés.",
+    "images": [
+      "assets/images/tadorne_casarca_oiseauxnet_0.jpg",
+      "assets/images/tadorne_casarca_oiseauxnet_1.jpg",
+      "assets/images/tadorne_casarca_oiseauxnet_2.jpg",
+      "assets/images/tadorne_casarca_oiseauxnet_3.jpg",
+      "assets/images/tadorne_casarca_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "71 cm",
+      "envergure": "121 à 145 cm.",
+      "poids": "925 à 1500 g"
+    }
+  },
+  {
+    "id": "podiceps_cristatus",
+    "nom": "Grèbe huppé",
+    "sci": "Podiceps cristatus",
+    "audio": "assets/audio/podiceps_cristatus.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Grèbe huppé est une espèce d'oiseaux aquatiques de la famille des Podicipédidés. C'est le plus grand des grèbes présents en Europe. Sa parade nuptiale est connue pour sa complexité.",
+    "images": [
+      "assets/images/grèbe_huppé_oiseauxnet_0.jpg",
+      "assets/images/grèbe_huppé_oiseauxnet_1.jpg",
+      "assets/images/grèbe_huppé_oiseauxnet_2.jpg",
+      "assets/images/grèbe_huppé_oiseauxnet_3.jpg",
+      "assets/images/grèbe_huppé_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "61 cm",
+      "envergure": "85 à 90 cm.",
+      "poids": "750 à 1200 g"
+    }
+  },
+  {
+    "id": "tachybaptus_ruficollis",
+    "nom": "Grèbe castagneux",
+    "sci": "Tachybaptus ruficollis",
+    "audio": "assets/audio/tachybaptus_ruficollis.mp3",
+    "audio_credit": "Eliot Robles",
+    "description": "Le Grèbe castagneux est une espèce d'oiseaux aquatiques de la famille des Podicipedidae. Il doit son nom à la couleur de son dos, castagneux signifiant châtain. Cet oiseau est le plus petit des membres de la famille des grèbes, comme le suggère son autre nom vernaculaire, Petit Grèbe. Contrairement aux autres grèbes d’Europe, il pond régulièrement deux fois par an. Oiseau discret, le grèbe castagneux s’installe sur n’importe quel lac, étang, mare ou marais dont les rives présentent une végétation suffisamment dense.",
+    "images": [
+      "assets/images/grèbe_castagneux_oiseauxnet_0.jpg",
+      "assets/images/grèbe_castagneux_oiseauxnet_1.jpg",
+      "assets/images/grèbe_castagneux_oiseauxnet_2.jpg",
+      "assets/images/grèbe_castagneux_oiseauxnet_3.jpg",
+      "assets/images/grèbe_castagneux_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "29 cm",
+      "envergure": "40 à 45 cm.",
+      "poids": "130 à 240 g"
+    }
+  },
+  {
+    "id": "podiceps_nigricollis",
+    "nom": "Grèbe à cou noir",
+    "sci": "Podiceps nigricollis",
+    "audio": "assets/audio/podiceps_nigricollis.mp3",
+    "audio_credit": "王自堃",
+    "description": "Le Grèbe à cou noir est une espèce d'oiseaux aquatiques de la famille des podicipédidés. C'est le plus sociable de tous les grèbes, mais aussi celui dont la population mondiale est la plus nombreuse.",
+    "images": [
+      "assets/images/grèbe_à_cou_noir_oiseauxnet_0.jpg",
+      "assets/images/grèbe_à_cou_noir_oiseauxnet_1.jpg",
+      "assets/images/grèbe_à_cou_noir_oiseauxnet_2.jpg",
+      "assets/images/grèbe_à_cou_noir_oiseauxnet_3.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "34 cm",
+      "envergure": "56 à 60 cm.",
+      "poids": "250 à 350 g"
+    }
+  },
+  {
+    "id": "cygnus_olor",
+    "nom": "Cygne tuberculé",
+    "sci": "Cygnus olor",
+    "audio": "assets/audio/cygnus_olor.mp3",
+    "audio_credit": "Eetu Paljakka",
+    "description": "Le Cygne tuberculé ou Cygne muet est une espèce d'oiseaux de la famille des anatidés. Le premier nom de l'animal provient de la bosse qu'il a sur le bec, appelée tubercule, et le second du fait qu'il émet de rares cris plutôt de faible puissance.",
+    "images": [
+      "assets/images/cygne_tuberculé_oiseauxnet_0.jpg",
+      "assets/images/cygne_tuberculé_oiseauxnet_1.jpg",
+      "assets/images/cygne_tuberculé_oiseauxnet_2.jpg",
+      "assets/images/cygne_tuberculé_oiseauxnet_3.jpg",
+      "assets/images/cygne_tuberculé_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "160 cm",
+      "envergure": "200 à 240 cm.",
+      "poids": "9000 à 13000 g"
+    }
+  },
+  {
+    "id": "cygnus_cygnus",
+    "nom": "Cygne chanteur",
+    "sci": "Cygnus cygnus",
+    "audio": "assets/audio/cygnus_cygnus.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le cygne chanteur ou cygne sauvage, est une espèce d'oiseaux appartenant à la famille des Anatidae. C'est un grand cygne de l'hémisphère Nord. Ce cygne eurasien est proche du cygne trompette nord-américain. Les ornithologues Francis Willughby et John Ray, le désignent, en 1676, comme le cygne « wapiti, élan ou cygne sauvage »[Quoi ?]. Le cygne chanteur est aussi l'oiseau national de la Finlande.",
+    "images": [
+      "assets/images/cygne_chanteur_oiseauxnet_0.jpg",
+      "assets/images/cygne_chanteur_oiseauxnet_1.jpg",
+      "assets/images/cygne_chanteur_oiseauxnet_2.jpg",
+      "assets/images/cygne_chanteur_oiseauxnet_3.jpg",
+      "assets/images/cygne_chanteur_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "165 cm",
+      "envergure": "205 à 243 cm.",
+      "poids": "8000 à 11000 g"
+    }
+  },
+  {
+    "id": "cygnus_columbianus",
+    "nom": "Cygne de Bewick",
+    "sci": "Cygnus columbianus",
+    "audio": "assets/audio/cygnus_columbianus.mp3",
+    "audio_credit": "Bo Shunqi 薄顺奇",
+    "description": "Le Cygne de Bewick est une sous-espèce eurasienne du cygne siffleur. Elle se distingue de Cygnus columbianus columbianus par le jaune beaucoup plus étendu sur le bec.",
+    "images": [
+      "assets/images/cygne_de_bewick_oiseauxnet_0.jpg",
+      "assets/images/cygne_de_bewick_oiseauxnet_1.jpg",
+      "assets/images/cygne_de_bewick_oiseauxnet_2.jpg",
+      "assets/images/cygne_de_bewick_oiseauxnet_3.jpg",
+      "assets/images/cygne_de_bewick_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "150 cm",
+      "envergure": "167 à 225 cm.",
+      "poids": "4100 à 9000 g"
+    }
+  },
+  {
+    "id": "fulica_atra",
+    "nom": "Foulque macroule",
+    "sci": "Fulica atra",
+    "audio": "assets/audio/fulica_atra.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "La Foulque macroule est une espèce d'oiseaux de la famille des Rallidae. Originaire d'une vaste partie de l'Ancien Monde et de l'Océanie, elle est la principale espèce de foulque naturellement présente en Europe.",
+    "images": [
+      "assets/images/foulque_macroule_oiseauxnet_0.jpg",
+      "assets/images/foulque_macroule_oiseauxnet_1.jpg",
+      "assets/images/foulque_macroule_oiseauxnet_2.jpg",
+      "assets/images/foulque_macroule_oiseauxnet_3.jpg",
+      "assets/images/foulque_macroule_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "39 cm",
+      "envergure": "70 à 80 cm.",
+      "poids": "575 à 800 g"
+    }
+  },
+  {
+    "id": "gallinula_chloropus",
+    "nom": "Gallinule poule-d'eau",
+    "sci": "Gallinula chloropus",
+    "audio": "assets/audio/gallinula_chloropus.mp3",
+    "audio_credit": "Ulf Elman",
+    "description": "La Gallinule poule-d'eau ou plus simplement Poule d'eau, est une espèce d'oiseaux appartenant à l'ordre des Gruiformes et à la famille des Rallidae. Comme ces derniers, la poule d’eau est capable de voler. Elle est très fréquente dans les étangs et les mares, ainsi que dans les cours d'eau où la végétation est suffisamment dense.",
+    "images": [
+      "assets/images/gallinule_poule_d_eau_oiseauxnet_0.jpg",
+      "assets/images/gallinule_poule_d_eau_oiseauxnet_1.jpg",
+      "assets/images/gallinule_poule_d_eau_oiseauxnet_2.jpg",
+      "assets/images/gallinule_poule_d_eau_oiseauxnet_3.jpg",
+      "assets/images/gallinule_poule_d_eau_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "38 cm",
+      "envergure": "50 à 55 cm.",
+      "poids": "260 à 373 g"
+    }
+  },
+  {
+    "id": "rallus_aquaticus",
+    "nom": "Râle d'eau",
+    "sci": "Rallus aquaticus",
+    "audio": "assets/audio/rallus_aquaticus.mp3",
+    "audio_credit": "João Tomás",
+    "description": "Le Râle d'eau est une espèce d'oiseaux de la famille des rallidés. L'adulte mesure de 23 à 28 cm de long et a, comme les autres râles, un corps aplati latéralement lui permettant de se frayer plus facilement un chemin dans les roselières, son habitat préférentiel. Ses parties supérieures sont brunes et ses parties inférieures gris-bleu. Il a des rayures noires sur les flancs, de longs orteils, une courte queue et un long bec rougeâtre. Les jeunes sont similaires aux adultes, mais la partie gris-bleu du plumage de l'adulte est chamoisée chez les jeunes. Les nouveau-nés sont couverts d'un duvet noir, comme chez tous les autres râles.",
+    "images": [
+      "assets/images/râle_d_eau_oiseauxnet_0.jpg",
+      "assets/images/râle_d_eau_oiseauxnet_1.jpg",
+      "assets/images/râle_d_eau_oiseauxnet_2.jpg",
+      "assets/images/râle_d_eau_oiseauxnet_3.jpg",
+      "assets/images/râle_d_eau_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "28 cm",
+      "envergure": "38 à 45 cm.",
+      "poids": "85 à 135 g"
+    }
+  },
+  {
+    "id": "grus_grus",
+    "nom": "Grue cendrée",
+    "sci": "Grus grus",
+    "audio": "assets/audio/grus_grus.mp3",
+    "audio_credit": "Jarek Matusiak",
+    "description": "La grue cendrée est une espèce de grands oiseaux de la famille des gruidés.",
+    "images": [
+      "assets/images/grue_cendrée_oiseauxnet_0.jpg",
+      "assets/images/grue_cendrée_oiseauxnet_1.jpg",
+      "assets/images/grue_cendrée_oiseauxnet_2.jpg",
+      "assets/images/grue_cendrée_oiseauxnet_3.jpg",
+      "assets/images/grue_cendrée_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "115 cm",
+      "envergure": "180 à 200 cm.",
+      "poids": "4000 à 7000 g"
+    }
+  },
+  {
+    "id": "cuculus_canorus",
+    "nom": "Coucou gris",
+    "sci": "Cuculus canorus",
+    "audio": "assets/audio/cuculus_canorus.mp3",
+    "audio_credit": "wilmet sebastien",
+    "description": "Le Coucou gris est une espèce d'oiseaux de la famille des cuculidés. Il doit son nom vernaculaire à son chant. Son comportement est caractérisé par la pratique du parasitisme de couvée. Insectivore, il est de la taille d'un Faucon crécerelle ou d'un Épervier d'Europe.",
+    "images": [
+      "assets/images/coucou_gris_oiseauxnet_0.jpg",
+      "assets/images/coucou_gris_oiseauxnet_1.jpg",
+      "assets/images/coucou_gris_oiseauxnet_2.jpg",
+      "assets/images/coucou_gris_oiseauxnet_3.jpg",
+      "assets/images/coucou_gris_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "33 cm",
+      "envergure": "55 à 65 cm.",
+      "poids": "105 à 130 g"
+    }
+  },
+  {
+    "id": "alcedo_atthis",
+    "nom": "Martin-pêcheur d'Europe",
+    "sci": "Alcedo atthis",
+    "audio": "assets/audio/alcedo_atthis.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "Le Martin-pêcheur d'Europe est une espèce d'oiseaux, espèce type de la famille des Alcedinidae. Cet oiseau est un bioindicateur de la qualité d'un milieu aquatique.",
+    "images": [
+      "assets/images/martin_pêcheur_d_europe_oiseauxnet_0.jpg",
+      "assets/images/martin_pêcheur_d_europe_oiseauxnet_1.jpg",
+      "assets/images/martin_pêcheur_d_europe_oiseauxnet_2.jpg",
+      "assets/images/martin_pêcheur_d_europe_oiseauxnet_3.jpg",
+      "assets/images/martin_pêcheur_d_europe_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "16 cm",
+      "envergure": "24 à 26 cm.",
+      "poids": "30 à 45 g"
+    }
+  },
+  {
+    "id": "merops_apiaster",
+    "nom": "Guêpier d'Europe",
+    "sci": "Merops apiaster",
+    "audio": "assets/audio/merops_apiaster.mp3",
+    "audio_credit": "Paul van Nuys",
+    "description": "Le Guêpier d'Europe est une espèce d'oiseaux appartenant à la famille des Meropidae. En raison de l'effet qu'il a sur l'environnement aride, certains auteurs le considèrent comme aménageur d'écosystèmes.",
+    "images": [
+      "assets/images/guêpier_d_europe_oiseauxnet_0.jpg",
+      "assets/images/guêpier_d_europe_oiseauxnet_1.jpg",
+      "assets/images/guêpier_d_europe_oiseauxnet_2.jpg",
+      "assets/images/guêpier_d_europe_oiseauxnet_3.jpg",
+      "assets/images/guêpier_d_europe_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "28 cm",
+      "envergure": "44 à 49 cm.",
+      "poids": "44 à 78 g"
+    }
+  },
+  {
+    "id": "coracias_garrulus",
+    "nom": "Rollier d'Europe",
+    "sci": "Coracias garrulus",
+    "audio": "assets/audio/coracias_garrulus.mp3",
+    "audio_credit": "Grzegorz Lorek",
+    "description": "Le Rollier d'Europe est la seule espèce de la famille des coraciidés à vivre en France.\nC'est un oiseau aux vives couleurs turquoise.",
+    "images": [
+      "assets/images/rollier_d_europe_oiseauxnet_0.jpg",
+      "assets/images/rollier_d_europe_oiseauxnet_1.jpg",
+      "assets/images/rollier_d_europe_oiseauxnet_2.jpg",
+      "assets/images/rollier_d_europe_oiseauxnet_3.jpg",
+      "assets/images/rollier_d_europe_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "32 cm",
+      "envergure": "66 à 73 cm.",
+      "poids": "110 à 155 g"
+    }
+  },
+  {
+    "id": "upupa_epops",
+    "nom": "Huppe fasciée",
+    "sci": "Upupa epops",
+    "audio": "assets/audio/upupa_epops.mp3",
+    "audio_credit": "Jorge Leitão",
+    "description": "La Huppe fasciée est une espèce d'oiseaux, l'une des trois représentantes de la famille des Upupidae et du genre Upupa. Les deux autres espèces, la Huppe africaine Upupa africana et la Huppe de Madagascar Upupa marginata, ont longtemps été considérées comme des sous-espèces de la huppe fasciée. Ces espèces sont parfois placées par certains auteurs dans leur propre ordre, les Upupiformes.",
+    "images": [
+      "assets/images/huppe_fasciée_oiseauxnet_0.jpg",
+      "assets/images/huppe_fasciée_oiseauxnet_1.jpg",
+      "assets/images/huppe_fasciée_oiseauxnet_2.jpg",
+      "assets/images/huppe_fasciée_oiseauxnet_3.jpg",
+      "assets/images/huppe_fasciée_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "32 cm",
+      "envergure": "42 à 46 cm.",
+      "poids": "55 à 80 g"
+    }
+  },
+  {
+    "id": "jynx_torquilla",
+    "nom": "Torcol fourmilier",
+    "sci": "Jynx torquilla",
+    "audio": "assets/audio/jynx_torquilla.mp3",
+    "audio_credit": "Markus Jacobs",
+    "description": "Le Torcol fourmilier est une espèce d'Oiseaux de la famille des pics (Picidae). Il se distingue en leur sein par son plumage très cryptique qui le fait ressembler à une feuille morte et par son bec relativement court, qui le rend incapable de creuser lui-même son nid. C'est également le seul pic de l'Ancien Monde à pouvoir être vraiment migrateur.",
+    "images": [
+      "assets/images/torcol_fourmilier_oiseauxnet_0.jpg",
+      "assets/images/torcol_fourmilier_oiseauxnet_1.jpg",
+      "assets/images/torcol_fourmilier_oiseauxnet_2.jpg",
+      "assets/images/torcol_fourmilier_oiseauxnet_3.jpg",
+      "assets/images/torcol_fourmilier_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "17 cm",
+      "envergure": "25 à 27 cm.",
+      "poids": "30 à 45 g"
+    }
+  },
+  {
+    "id": "caprimulgus_europaeus",
+    "nom": "Engoulevent d'Europe",
+    "sci": "Caprimulgus europaeus",
+    "audio": "assets/audio/caprimulgus_europaeus.mp3",
+    "audio_credit": "Robin et Julien SOURIOU",
+    "description": "L'Engoulevent d'Europe est une espèce d'oiseaux de la famille des Caprimulgidae. Comme tous les engoulevents, c'est un oiseau crépusculaire et nocturne. Il possède un plumage cryptique très complexe, mêlant le gris, le beige et le brun, qui lui confère un camouflage efficace le jour, lorsqu'il reste posé au sol ou perché, immobile, le long d'une branche. En vol, le mâle arbore cependant des taches blanches bien visibles sur les coins de la queue et au bout des ailes. Le cou est court, portant une grosse tête munie d'un petit bec. Les ailes et la queue sont longues et étroites ; les pattes sont courtes. L'Engoulevent d'Europe se nourrit d'une grande variété d'insectes volants, qu'il attrape en vol, souvent en chassant depuis un perchoir. Il chasse à vue, utilisant ses yeux relativement grands et munis d'une couche réfléchissante qui améliore sa vision de nuit. Il ne semble pas utiliser son ouïe pour chasser, et ne fait pas d'écholocalisation. Il boit et se baigne au vol.",
+    "images": [
+      "assets/images/engoulevent_d_europe_oiseauxnet_0.jpg",
+      "assets/images/engoulevent_d_europe_oiseauxnet_1.jpg",
+      "assets/images/engoulevent_d_europe_oiseauxnet_2.jpg",
+      "assets/images/engoulevent_d_europe_oiseauxnet_3.jpg",
+      "assets/images/engoulevent_d_europe_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "28 cm",
+      "envergure": "54 à 60 cm.",
+      "poids": "67 à 100 g"
+    }
+  },
+  {
+    "id": "anthus_campestris",
+    "nom": "Pipit rousseline",
+    "sci": "Anthus campestris",
+    "audio": "assets/audio/anthus_campestris.mp3",
+    "audio_credit": "Manuel Oudard",
+    "description": "Le Pipit rousseline est une espèce de passereaux appartenant à la famille des Motacillidae.",
+    "images": [
+      "assets/images/pipit_rousseline_oiseauxnet_0.jpg",
+      "assets/images/pipit_rousseline_oiseauxnet_1.jpg",
+      "assets/images/pipit_rousseline_oiseauxnet_2.jpg",
+      "assets/images/pipit_rousseline_oiseauxnet_3.jpg",
+      "assets/images/pipit_rousseline_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "17 cm",
+      "envergure": "25 à 28 cm.",
+      "poids": "20 à 28 g"
+    }
+  },
+  {
+    "id": "oenanthe_oenanthe",
+    "nom": "Traquet motteux",
+    "sci": "Oenanthe oenanthe",
+    "audio": "assets/audio/oenanthe_oenanthe.mp3",
+    "audio_credit": "Benjamin Drillat",
+    "description": "Le Traquet motteux est une espèce de passereaux insectivores migrateurs de la famille des Muscicapidae. C'est l'espèce de traquets la plus répandue.",
+    "images": [
+      "assets/images/traquet_motteux_oiseauxnet_0.jpg",
+      "assets/images/traquet_motteux_oiseauxnet_1.jpg",
+      "assets/images/traquet_motteux_oiseauxnet_2.jpg",
+      "assets/images/traquet_motteux_oiseauxnet_3.jpg",
+      "assets/images/traquet_motteux_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "16 cm",
+      "envergure": "26 à 32 cm.",
+      "poids": "17 à 30 g"
+    }
+  },
+  {
+    "id": "saxicola_rubicola",
+    "nom": "Tarier pâtre",
+    "sci": "Saxicola rubicola",
+    "audio": "assets/audio/saxicola_rubicola.mp3",
+    "audio_credit": "Nicolas Martinez",
+    "description": "Le terme Tarier pâtre se réfère à un complexe d'espèces d'oiseaux de la famille des Muscicapidae alors regroupées sous le nom scientifique de Saxicola torquatus.",
+    "images": [
+      "assets/images/tarier_pâtre_oiseauxnet_0.jpg",
+      "assets/images/tarier_pâtre_oiseauxnet_1.jpg",
+      "assets/images/tarier_pâtre_oiseauxnet_2.jpg",
+      "assets/images/tarier_pâtre_oiseauxnet_3.jpg",
+      "assets/images/tarier_pâtre_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "13 cm",
+      "envergure": "18 à 21 cm.",
+      "poids": "14 à 17 g"
+    }
+  },
+  {
+    "id": "saxicola_rubetra",
+    "nom": "Tarier des prés",
+    "sci": "Saxicola rubetra",
+    "audio": "assets/audio/saxicola_rubetra.mp3",
+    "audio_credit": "Ulf Elman",
+    "description": "Le Tarier des prés ou Traquet tarier est une espèce paléarctique migratrice de passereaux insectivores appartenant à la famille des Muscicapidae.",
+    "images": [
+      "assets/images/tarier_des_prés_oiseauxnet_0.jpg",
+      "assets/images/tarier_des_prés_oiseauxnet_1.jpg",
+      "assets/images/tarier_des_prés_oiseauxnet_2.jpg",
+      "assets/images/tarier_des_prés_oiseauxnet_3.jpg",
+      "assets/images/tarier_des_prés_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 cm",
+      "envergure": "-",
+      "poids": "16 à 24 g"
+    }
+  },
+  {
+    "id": "emberiza_calandra",
+    "nom": "Bruant proyer",
+    "sci": "Emberiza calandra",
+    "audio": "assets/audio/emberiza_calandra.mp3",
+    "audio_credit": "Bram Piot",
+    "description": "Le Bruant proyer, également appelé Proyer d'Europe, est une espèce d'oiseaux de la famille des Emberizidae. C'est l'une des nombreuses espèces d'oiseaux autrefois communs en milieu rural dont les populations sont en forte régression, notamment en raison de l'intensification des pratiques agricoles. Cet animal est typique des paysages semi-ouverts abritant une « mosaïque d'habitats ». Il a longtemps trouvé des habitats de substitution dans les zones agricoles bocagères extensive. Il consomme des insectes et invertébrés quand il est jeune et des graines et fruits quand il est adulte, ce qui en fait potentiellement un bioindicateur intéressant de la qualité des paysages, et notamment de la qualité du patrimoine bocager.",
+    "images": [
+      "assets/images/bruant_proyer_oiseauxnet_0.jpg",
+      "assets/images/bruant_proyer_oiseauxnet_1.jpg",
+      "assets/images/bruant_proyer_oiseauxnet_2.jpg",
+      "assets/images/bruant_proyer_oiseauxnet_3.jpg",
+      "assets/images/bruant_proyer_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "19 cm",
+      "envergure": "26 à 32 cm.",
+      "poids": "38 à 55 g"
+    }
+  },
+  {
+    "id": "emberiza_hortulana",
+    "nom": "Bruant ortolan",
+    "sci": "Emberiza hortulana",
+    "audio": "assets/audio/emberiza_hortulana.mp3",
+    "audio_credit": "Martinez Nicolas",
+    "description": "Le bruant ortolan ou simplement ortolan, est une espèce d'oiseaux de la famille des embérizidés.",
+    "images": [
+      "assets/images/bruant_ortolan_oiseauxnet_0.jpg",
+      "assets/images/bruant_ortolan_oiseauxnet_1.jpg",
+      "assets/images/bruant_ortolan_oiseauxnet_2.jpg",
+      "assets/images/bruant_ortolan_oiseauxnet_3.jpg",
+      "assets/images/bruant_ortolan_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "17 cm",
+      "envergure": "24 à 27 cm.",
+      "poids": "19 à 27 g"
+    }
+  },
+  {
+    "id": "serinus_serinus",
+    "nom": "Serin cini",
+    "sci": "Serinus serinus",
+    "audio": "assets/audio/serinus_serinus.mp3",
+    "audio_credit": "Pere Josa",
+    "description": "Le Serin cini  est une espèce d'oiseaux de la famille des Fringillidae. C'est une espèce largement répandue en Europe, proche du Serin des Canaries.",
+    "images": [
+      "assets/images/serin_cini_oiseauxnet_0.jpg",
+      "assets/images/serin_cini_oiseauxnet_1.jpg",
+      "assets/images/serin_cini_oiseauxnet_2.jpg",
+      "assets/images/serin_cini_oiseauxnet_3.jpg",
+      "assets/images/serin_cini_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "12 cm",
+      "envergure": "-",
+      "poids": "10 à 14 g"
+    }
+  },
+  {
+    "id": "chloris_citrinella",
+    "nom": "Venturon montagnard",
+    "sci": "Chloris citrinella",
+    "audio": "",
+    "audio_credit": "inconnu",
+    "description": "Le Venturon montagnard est une espèce de petits passereaux granivores appartenant à la famille des Fringillidae, dont l'aire de répartition est limitée à certains massifs montagneux européens.",
+    "images": [
+      "assets/images/venturon_montagnard_oiseauxnet_0.jpg",
+      "assets/images/venturon_montagnard_oiseauxnet_1.jpg",
+      "assets/images/venturon_montagnard_oiseauxnet_2.jpg",
+      "assets/images/venturon_montagnard_oiseauxnet_3.jpg",
+      "assets/images/venturon_montagnard_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "12 cm",
+      "envergure": "22 cm.",
+      "poids": "11 à 14 g"
+    }
+  },
+  {
+    "id": "prunella_modularis",
+    "nom": "Accenteur mouchet",
+    "sci": "Prunella modularis",
+    "audio": "assets/audio/prunella_modularis.mp3",
+    "audio_credit": "Martin Fransson",
+    "description": "L'Accenteur mouchet est une espèce d'oiseaux de la famille des Prunellidae. C'est l'une des deux espèces d'accenteurs vivant en France.",
+    "images": [
+      "assets/images/accenteur_mouchet_oiseauxnet_0.jpg",
+      "assets/images/accenteur_mouchet_oiseauxnet_1.jpg",
+      "assets/images/accenteur_mouchet_oiseauxnet_2.jpg",
+      "assets/images/accenteur_mouchet_oiseauxnet_3.jpg",
+      "assets/images/accenteur_mouchet_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 cm",
+      "envergure": "21 cm.",
+      "poids": ""
+    }
+  },
+  {
+    "id": "muscicapa_striata",
+    "nom": "Gobemouche gris",
+    "sci": "Muscicapa striata",
+    "audio": "assets/audio/muscicapa_striata.mp3",
+    "audio_credit": "Jorge Leitão",
+    "description": "Le Gobemouche gris est une petite espèce d'oiseaux appartenant à la famille des muscicapidés.",
+    "images": [
+      "assets/images/gobemouche_gris_oiseauxnet_0.jpg",
+      "assets/images/gobemouche_gris_oiseauxnet_1.jpg",
+      "assets/images/gobemouche_gris_oiseauxnet_2.jpg",
+      "assets/images/gobemouche_gris_oiseauxnet_3.jpg",
+      "assets/images/gobemouche_gris_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "15 cm",
+      "envergure": "23 à 25 cm.",
+      "poids": "13 à 19 g"
+    }
+  },
+  {
+    "id": "ficedula_hypoleuca",
+    "nom": "Gobemouche noir",
+    "sci": "Ficedula hypoleuca",
+    "audio": "assets/audio/ficedula_hypoleuca.mp3",
+    "audio_credit": "Hannu Varkki",
+    "description": "Le Gobemouche noir est l'une des quatre espèces de la famille Muscicapini que l'on peut observer en France, ses cousins sont le gobemouche à collier, le gobemouche à demi-collier et le gobemouche nain.",
+    "images": [
+      "assets/images/gobemouche_noir_oiseauxnet_0.jpg",
+      "assets/images/gobemouche_noir_oiseauxnet_1.jpg",
+      "assets/images/gobemouche_noir_oiseauxnet_2.jpg",
+      "assets/images/gobemouche_noir_oiseauxnet_3.jpg",
+      "assets/images/gobemouche_noir_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "13 cm",
+      "envergure": "21 à 24 cm.",
+      "poids": "9 à 15 g"
+    }
+  },
+  {
+    "id": "hippolais_polyglotta",
+    "nom": "Hypolaïs polyglotte",
+    "sci": "Hippolais polyglotta",
+    "audio": "assets/audio/hippolais_polyglotta.mp3",
+    "audio_credit": "Sonothèque ADVL",
+    "description": "L'Hypolaïs polyglotte est une espèce d'oiseaux de la famille des Acrocephalidae. C'est un visiteur d'été en France.",
+    "images": [
+      "assets/images/hypolaïs_polyglotte_oiseauxnet_0.jpg",
+      "assets/images/hypolaïs_polyglotte_oiseauxnet_1.jpg",
+      "assets/images/hypolaïs_polyglotte_oiseauxnet_2.jpg",
+      "assets/images/hypolaïs_polyglotte_oiseauxnet_3.jpg",
+      "assets/images/hypolaïs_polyglotte_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "14 cm",
+      "envergure": "19 à 20 cm.",
+      "poids": "9 à 16 g"
+    }
+  },
+  {
+    "id": "locustella_naevia",
+    "nom": "Locustelle tachetée",
+    "sci": "Locustella naevia",
+    "audio": "assets/audio/locustella_naevia.mp3",
+    "audio_credit": "Joost van Bruggen",
+    "description": "La Locustelle tachetée est une espèce de passereaux de la famille des Locustellidae.",
+    "images": [
+      "assets/images/locustelle_tachetée_oiseauxnet_0.jpg",
+      "assets/images/locustelle_tachetée_oiseauxnet_1.jpg",
+      "assets/images/locustelle_tachetée_oiseauxnet_2.jpg",
+      "assets/images/locustelle_tachetée_oiseauxnet_3.jpg",
+      "assets/images/locustelle_tachetée_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "13 cm",
+      "envergure": "19 à 20 cm.",
+      "poids": "11 à 15 g"
+    }
+  },
+  {
+    "id": "acrocephalus_scirpaceus",
+    "nom": "Rousserolle effarvatte",
+    "sci": "Acrocephalus scirpaceus",
+    "audio": "assets/audio/acrocephalus_scirpaceus.mp3",
+    "audio_credit": "David Darrell-Lambert",
+    "description": "La Rousserolle effarvatte est une espèce de fauvettes appartenant à la famille des Acrocephalidae.",
+    "images": [
+      "assets/images/rousserolle_effarvatte_oiseauxnet_0.jpg",
+      "assets/images/rousserolle_effarvatte_oiseauxnet_1.jpg",
+      "assets/images/rousserolle_effarvatte_oiseauxnet_2.jpg",
+      "assets/images/rousserolle_effarvatte_oiseauxnet_3.jpg",
+      "assets/images/rousserolle_effarvatte_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "13 cm",
+      "envergure": "19 cm.",
+      "poids": "10 à 15 g"
+    }
+  },
+  {
+    "id": "panurus_biarmicus",
+    "nom": "Panure à moustaches",
+    "sci": "Panurus biarmicus",
+    "audio": "assets/audio/panurus_biarmicus.mp3",
+    "audio_credit": "Jarek Matusiak",
+    "description": "La Panure à moustaches, anciennement appelée mésange à moustaches, est une espèce de passereaux d'Europe, l'unique représentante du genre Panurus et de la famille des Panuridae.",
+    "images": [
+      "assets/images/panure_à_moustaches_oiseauxnet_0.jpg",
+      "assets/images/panure_à_moustaches_oiseauxnet_1.jpg",
+      "assets/images/panure_à_moustaches_oiseauxnet_2.jpg",
+      "assets/images/panure_à_moustaches_oiseauxnet_3.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "17 cm",
+      "envergure": "16 à 18 cm.",
+      "poids": "12 à 18 g"
+    }
+  },
+  {
+    "id": "cisticola_juncidis",
+    "nom": "Cisticole des joncs",
+    "sci": "Cisticola juncidis",
+    "audio": "assets/audio/cisticola_juncidis.mp3",
+    "audio_credit": "Filippo Ceccolini",
+    "description": "La Cisticole des joncs est une espèce de passereaux de la famille des Cisticolidae.",
+    "images": [
+      "assets/images/cisticole_des_joncs_oiseauxnet_0.jpg",
+      "assets/images/cisticole_des_joncs_oiseauxnet_1.jpg",
+      "assets/images/cisticole_des_joncs_oiseauxnet_2.jpg",
+      "assets/images/cisticole_des_joncs_oiseauxnet_3.jpg",
+      "assets/images/cisticole_des_joncs_oiseauxnet_4.jpg"
+    ],
+    "image_credits": [
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net",
+      "oiseaux.net"
+    ],
+    "biometrie": {
+      "taille": "10 cm",
+      "envergure": "-",
+      "poids": "5 à 12 g"
+    }
+  }
+]
