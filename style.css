@@ -18,7 +18,14 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+
+    
   
+}
+.logo-header {
+  max-width: 300px;
+  height: auto;
+  margin-bottom: 1rem;
 }
 
 nav {
